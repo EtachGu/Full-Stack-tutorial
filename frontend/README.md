@@ -267,7 +267,7 @@
 |[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
 |[前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content)|[大前端工具集](https://github.com/nieweidong/fetool)|
 |[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)|[结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)|
-|[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)|
+|[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)|[Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)|
 
 ## 前端规范
 | Reference | Reference |
