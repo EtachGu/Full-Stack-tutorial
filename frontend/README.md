@@ -190,6 +190,7 @@
 ## 富文本编辑器
 | Reference | Reference |
 | --------- | --------- |
+|[Stackedit MarkDown](https://github.com/benweet/stackedit)||
 |[百度ueditor](http://ueditor.baidu.com/website)|[ckeditor](http://ckeditor.com)|
 |[tinymce](https://www.tinymce.com)|[kindeditor](http://kindeditor.net)|
 |[wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg)|[BachEditor](http://integ.github.io/BachEditor)|
