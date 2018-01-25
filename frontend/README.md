@@ -181,6 +181,7 @@
 ## 在线演示
 | Reference | Reference |
 | --------- | --------- |
+|[Stackedit MarkDown](https://github.com/benweet/stackedit)||
 |[js 在线编辑 - runjs](http://runjs.cn)|[js 在线编辑 - jsbin](http://jsbin.com)|
 |[js 在线编辑 - codepen](http://codepen.io)|[js 在线编辑 - jsfiddle](http://jsfiddle.net)|
 |[java 在线编辑 - runjs](http://ideone.com)|[js 在线编辑 - hcharts](http://code.hcharts.cn)|
