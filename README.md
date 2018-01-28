@@ -1,5 +1,10 @@
 # Full Stack Technology
 
+A tech stack is a combination of software products and programming languages used to create a web or mobile application. Applications have two software components: client-side and server-side, also known as front-end and back-end.
+
+![Full Stack](images/FullStack.jpg)
+
+
 ## Front End
 
 - [Javascript](https://github.com/EtachGu/Front-end-tutorial/tree/master/frontend/#javascript)
