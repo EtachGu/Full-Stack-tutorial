@@ -1,7 +1,7 @@
 # Front End Technology
 
-
 ## Javascript
+
 | Article | Article |
 | --------- | --------- |
 |[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
@@ -20,6 +20,7 @@
 |[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|
 
 ## UI
+
 | Reference | Reference |
 | --------- | --------- |
 |[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|
@@ -31,6 +32,7 @@
 |[Smart UI](http://smartui.chinamzz.com)|[雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)|
 
 ## CSS
+
 | Article | Article |
 | --------- | --------- |
 |[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[移动前端开发CSS3](https://github.com/Wscats/Good-text-Share/issues/38)|
@@ -42,11 +44,13 @@
 |[Animated Books with CSS 3D Transforms](http://tympanus.net/Development/AnimatedBooks/)|[Browserhacks](http://browserhacks.com/)|
 
 ## HTML
+
 | Article | Article |
 | --------- | --------- |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
 
-##WebAssembly
+## WebAssembly
+
 |repository|description|
 | --------- | --------- |
 |[Emscripten](https://kripken.github.io/emscripten-site/docs/introducing_emscripten/about_emscripten.html)| tool for compiler|
@@ -55,6 +59,7 @@
 |[WebAssembly learning](https://github.com/wasdk/WebAssemblyStudio)| |
 
 ## Angular
+
 | Article | Angular文档 |
 | --------- | --------- |
 |[Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26)|[Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25)|
@@ -110,6 +115,7 @@
 |[AngularJS在线教程](http://each.sinaapp.com/angular)|[Angular学习笔记](http://www.zouyesheng.com/angular.html)|
 
 ## React
+
 | React | Reference |
 | --------- | --------- |
 |[React教程 菜鸟教程](http://www.runoob.com/react/react-tutorial.html)|[React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)|
@@ -125,6 +131,7 @@
 |[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native)|[Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)|
 
 ## Vue
+
 | Vue |AppDemo|Demo|
 | --------- | --------- | --------- |
 |[NewsDemo](https://wscats.github.io/vue-demo/news/index.html)|[vue计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|[vue生命周期](https://wscats.github.io/vue-demo/vue生命周期.html)|
@@ -149,8 +156,8 @@
 | **Reference** | **Reference** | **Reference** |
 |[Vue官网](http://cn.vuejs.org)|[Vue论坛](http://forum.vuejs.org)|[Awesome-vue](https://github.com/vuejs/awesome-vue)|
 
+## Gulp
 
-## Gulp 
 | Gulp | Article |
 | --------- | --------- |
 |[Gulp Demo](https://github.com/Wscats/glup)||
@@ -161,6 +168,7 @@
 |[Gulp 入门指南](https://github.com/nimojs/gulp-book)||
 
 ## 其他
+
 | Other | Article |
 | --------- | --------- |
 |[关于Pornographic website的一些前端分析](https://github.com/Wscats/node-demo/issues/4)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)|
@@ -171,6 +179,7 @@
 |[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
 
 ## 分享功能
+
 | Share | Reference |
 | --------- | --------- |
 |[百度分享(PC)](http://share.baidu.com)|[JiaThis(PC)](http://jiathis.com)|
@@ -178,6 +187,7 @@
 |[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)||
 
 ## 在线演示
+
 | Reference | Reference |
 | --------- | --------- |
 |[js 在线编辑 - runjs](http://runjs.cn)|[js 在线编辑 - jsbin](http://jsbin.com)|
@@ -187,6 +197,7 @@
 |[mozilla 在线编辑器](https://thimble.mozilla.org)||
 
 ## 富文本编辑器
+
 | Reference | Reference |
 | --------- | --------- |
 |[Stackedit MarkDown](https://github.com/benweet/stackedit)||
@@ -197,6 +208,7 @@
 |[Squire](http://neilj.github.io/Squire)|[wangEditor](https://github.com/wangfupeng1988/wangEditor)|
 
 ## Chrome
+
 | Reference | Reference |
 | --------- | --------- |
 |[Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)|[Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)|
@@ -210,6 +222,7 @@
 |[Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|
 
 ## 性能优化
+
 | Reference | Reference |
 | --------- | --------- |
 |[Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)|[移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)|
@@ -223,6 +236,7 @@
 |[阿里无线前端性能优化指南(Pt.1 加载期优化)](https://github.com/amfe/article/issues/1)|[毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)|
 
 ## CDN
+
 | Reference | Reference |
 | --------- | --------- |
 |[Jquery&Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/jquery)|[Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn)|
@@ -232,6 +246,7 @@
 |[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)||
 
 ## Git
+
 | Article | Article |
 | --------- | --------- |
 |[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[Git CSDN Blog](http://blog.csdn.net/qq_27080247/article/details/49942991)|
@@ -243,6 +258,7 @@
 |[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|
 
 ## Sass&Less
+
 | Article | Article |
 | --------- | --------- |
 |[Less教程](https://github.com/Wscats/less-demo/issues/1)||
@@ -251,6 +267,7 @@
 |[Less](http://less.bootcss.com)||
 
 ## Markdown
+
 | Reference | Reference |
 | --------- | --------- |
 |[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)|[Markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)|
@@ -259,17 +276,19 @@
 |[Markdown-editor](https://github.com/jbt/markdown-editor)||
 
 ## 前端文档
+
 | Reference | Reference |
 | --------- | --------- |
 |[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
 |[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|
 |[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|
-|[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
+|[Gitbook](https://www.gitbook.com%20%E5%9B%BD%E5%A4%96%E7%9A%84%E5%9C%A8%E7%BA%BFmarkdown%E5%8F%AF%E7%BC%96%E8%BE%91%E6%88%90%E4%B9%A6)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
 |[前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content)|[大前端工具集](https://github.com/nieweidong/fetool)|
 |[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)|[结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)|
 |[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)|[Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)|
 
 ## 前端规范
+
 | Reference | Reference |
 | --------- | --------- |
 |[通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide/)|[HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com)|
@@ -281,6 +300,7 @@
 |[前端规范资源列表](https://github.com/ecomfe/spec)|[Web 前端开发规范文档](http://codecloud.net/5622.html)|
 
 ## 前端面试
+
 | Reference | Reference |
 | --------- | --------- |
 |[2016校招内推 -- 阿里巴巴前端 -- 四面面试经历](http://www.cnblogs.com/imwtr/p/4685546.html)|[那几个月在找工作（百度，网易游戏，华为）](https://www.nowcoder.com/discuss/3196)|
@@ -291,6 +311,7 @@
 |[前端面试大全](https://segmentfault.com/a/1190000005947094)|[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)|
 
 ## 前端网站
+
 | Reference | Reference |
 | --------- | --------- |
 |[掘金](https://gold.xitu.io/)|[百度FEX](http://fex.baidu.com/)|
@@ -300,6 +321,7 @@
 |[CTOLib](http://www.ctolib.com/javascript/)|[CTOLib/Node](http://www.ctolib.com/nodejs/)|
 
 ## JS练习
+
 | Reference | Reference |
 | --------- | --------- |
 |[Codewars](https://www.codewars.com/)|[Javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)|
@@ -308,19 +330,21 @@
 |[Nodeschool](https://nodeschool.io/)|[Hackerrank](https://www.hackerrank.com/)|
 
 ## 算法
+
 | Reference | Reference |
 | --------- | --------- |
 |[数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)|[常见排序算法（JS版）](https://github.com/twobin/twobinSort)|
 |[经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)|[常见排序算法-js版本](https://github.com/hechangmin/jssort)|
 
 ## ES
+
 | Reference | Reference |
 | --------- | --------- |
 |[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|
 |[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|
 
-
 ## RegExp
+
 |正则表达式|
 |----|
 |[shortcut](https://www.shortcutfoo.com/app/dojos/regex/cheatsheet)|
