@@ -46,6 +46,14 @@
 | --------- | --------- |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
 
+##WebAssembly
+|repository|description|
+| --------- | --------- |
+|[Emscripten](https://kripken.github.io/emscripten-site/docs/introducing_emscripten/about_emscripten.html)| tool for compiler|
+|[WebAssembly](http://webassembly.org/)|org|
+|[WebAssembly](http://webassembly.github.io/spec/web-api/index.html)| api|
+|[WebAssembly learning](https://github.com/wasdk/WebAssemblyStudio)| |
+
 ## Angular
 | Article | Angular文档 |
 | --------- | --------- |
