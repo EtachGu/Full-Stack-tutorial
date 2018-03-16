@@ -9,8 +9,12 @@
 |[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)|
 |[Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)||
 
-
 ## Go language
 | Article | Article |
 | --------- | --------- |
 |[Go Books](https://github.com/dariubs/GoBooks) ||
+
+## Python
+| Article | Article |
+| --------- | --------- |
+|[Web 框架 Django](https://github.com/django/django) ||
