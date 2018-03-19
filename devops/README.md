@@ -12,3 +12,5 @@ vagrant
 docker
 ----
 ![docker](../images/docker.png)
+
+boot2docker is deprecated, and [Docker Mechine](https://docs.docker.com/machine/) is good for choose.
