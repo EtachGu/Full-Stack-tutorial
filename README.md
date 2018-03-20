@@ -28,3 +28,7 @@ A tech stack is a combination of software products and programming languages use
 
 - [Node](https://github.com/EtachGu/Front-end-tutorial/tree/master/frontend/#node)
 - [Go](https://github.com/EtachGu/Front-end-tutorial/tree/master/backend/#go)
+
+## DevOps
+
+[DevOps](devops/README.md)
