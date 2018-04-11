@@ -9,6 +9,11 @@
 |[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)|
 |[Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)||
 
+## Koa
+next generation web framework for node.js
+[Koa](https://github.com/koajs)
+[koa middleware](https://github.com/koajs/koa/wiki)
+
 ## Go language
 | Article | Article |
 | --------- | --------- |
@@ -18,6 +23,7 @@
 | Article | Article |
 | --------- | --------- |
 |[Web 框架 Django](https://github.com/django/django) ||
+|[Flask](http://flask.pocoo.org/)||
 
 
 ## RESTful API
