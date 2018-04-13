@@ -31,3 +31,15 @@ next generation web framework for node.js
 
 ## RESTful API
 [OpenAPI](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)
+
+
+## Authentication & authorization
+OAuth
+
+Basic 
+
+tokn
+
+JWT(JSON Web Token) https://jwt.io/
+
+OpenID
