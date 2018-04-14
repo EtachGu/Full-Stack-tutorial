@@ -35,6 +35,7 @@ next generation web framework for node.js
 
 ## Authentication & authorization
 OAuth
+[OAuth 2](https://oauth.net/2/)
 
 Basic 
 
