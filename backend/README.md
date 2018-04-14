@@ -20,13 +20,16 @@ next generation web framework for node.js
 | Article | Article |
 | --------- | --------- |
 |[Go Books](https://github.com/dariubs/GoBooks) ||
+|[awesome-go](https://github.com/avelino/awesome-go)||
 
 ## Python
 -----
 | Article | Article |
 | --------- | --------- |
+|[awesome-python](https://github.com/vinta/awesome-python)||
 |[Web 框架 Django](https://github.com/django/django) ||
 |[Flask](http://flask.pocoo.org/)||
+
 
 
 ## RESTful API
