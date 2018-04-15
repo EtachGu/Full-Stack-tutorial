@@ -134,6 +134,7 @@
 |[React.js material UI](http://material-ui.com/#)|[React.js TouchstoneJS UI](http://touchstonejs.io)|
 |[React.js amazeui UI](http://amazeui.org/react)|[React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)|
 |[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native)|[Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)|
+|[awesome-react-components](https://github.com/brillout/awesome-react-components)||
 
 ## Vue
 
