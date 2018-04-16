@@ -36,7 +36,11 @@ A tech stack is a combination of software products and programming languages use
 
 - [RESTful API](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend#restful-api)
 
+<<<<<<< HEAD
 - [Authentication & authorization](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend##authentication--authorization)
+=======
+-[Authentication & authorization](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend##authentication--authorization)
+>>>>>>> 5a4ff821c6d8658063795e41d05506b0686d0a83
 
 
 ## DevOps
