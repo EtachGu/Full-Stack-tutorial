@@ -27,7 +27,7 @@ A tech stack is a combination of software products and programming languages use
 
 ## Back End
 
-- [Node](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/frontend/#node)
+- [Node](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend/#node)
 - [Koa](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend#koa)
 
 - [Python](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend#python)
@@ -36,7 +36,7 @@ A tech stack is a combination of software products and programming languages use
 
 - [RESTful API](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend#restful-api)
 
-
+-[Authentication & authorization](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/backend##authentication--authorization)
 
 
 ## DevOps
