@@ -38,6 +38,8 @@ next generation web framework for node.js
 
 [RESTful API design](https://github.com/aisuhua/restful-api-design-references)
 
+[RESTful API introdcetions](https://idratherbewriting.com/learnapidoc/index.html)
+
 
 ## Authentication & authorization
 OAuth
