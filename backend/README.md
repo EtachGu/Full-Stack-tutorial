@@ -27,7 +27,7 @@ next generation web framework for node.js
 | Article | Article |
 | --------- | --------- |
 |[awesome-python](https://github.com/vinta/awesome-python)||
-|[Web 框架 Django](https://github.com/django/django) ||
+|[Web 框架 Django](https://github.com/django/django) |[Django rest framework ](http://www.django-rest-framework.org/)|
 |[Flask](http://flask.pocoo.org/)||
 
 
