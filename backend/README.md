@@ -57,3 +57,8 @@ OpenID
 ## Lua
 
 [kong](https://github.com/Kong/kong)基于OpenResty的 API 网关服务和网关服务管理层.
+
+
+## Microservice 微服务
+
+[《微服务：从设计到部署》中文版](https://legacy.gitbook.com/book/docshome/microservices/details)
