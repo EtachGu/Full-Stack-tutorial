@@ -21,6 +21,7 @@ next generation web framework for node.js
 | --------- | --------- |
 |[Go Books](https://github.com/dariubs/GoBooks) ||
 |[awesome-go](https://github.com/avelino/awesome-go)||
+|[Go kit](https://github.com/go-kit/kit)||
 
 ## Python
 -----
@@ -52,3 +53,7 @@ tokn
 JWT(JSON Web Token) https://jwt.io/
 
 OpenID
+
+## Lua
+
+[kong](https://github.com/Kong/kong)基于OpenResty的 API 网关服务和网关服务管理层.
