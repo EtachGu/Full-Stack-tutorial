@@ -7,6 +7,15 @@ A tech stack is a combination of software products and programming languages use
 [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
 [Curated list of awesome lists, developer](Curated list of awesome lists)
 
+## 代码管理
+
+git 分支管理：[猴子都能懂的Git入门](https://link.zhihu.com/?target=http%3A//backlogtool.com/git-guide/cn/)
+
+[GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html) （**推荐采用**）
+gitlab flow 主要包括pre-production、production 分支, 新功能
+
+github Flow 采用fork flow的方式，每位开发者各自维护自己代码，提交利用pull request。
+
 ## Front End
 
 - [Javascript](https://github.com/EtachGu/Full-Stack-tutorial/tree/master/frontend/#javascript)
