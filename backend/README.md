@@ -60,7 +60,15 @@ OpenID
 [kong](https://github.com/Kong/kong)基于OpenResty的 API 网关服务和网关服务管理层.
 
 
-## Microservice 微服务
+## Microservices Architecture 微服务
 
-[What is microservice](https://martinfowler.com/articles/microservices.html)
-[《微服务：从设计到部署》中文版](https://legacy.gitbook.com/book/docshome/microservices/details)
+- [What is microservice](https://martinfowler.com/articles/microservices.html)
+- [《微服务：从设计到部署》中文版](https://legacy.gitbook.com/book/docshome/microservices/details)
+
+
+## Theory fo distributed system
+
+- [CAP定理（CAP theorem, Consistency, Availability, Partition tolerance）](https://en.wikipedia.org/wiki/CAP_theorem)
+- [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
+- [8 fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+- [FLP 不可能性的](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
