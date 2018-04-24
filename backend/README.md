@@ -32,7 +32,17 @@ next generation web framework for node.js
 |[Flask](http://flask.pocoo.org/)||
 |[Full Stack Python ](https://www.fullstackpython.com/microservices.html)article||
 
+**[Celery](http://docs.celeryproject.org/en/latest/index.html)**
+is a task queue with focus on real-time processing, while also supporting task scheduling.
 
+Why we need Task Queue in Web Context?
+
+These are some common use cases:
+
+- Running something in the background. For example, to finish the web request as soon as possible, then update the users page incrementally. This gives the user the impression of good performance and “snappiness”, even though the real work might actually take some time.
+- Running something after the web request has finished.
+- Making sure something is done, by executing it asynchronously and using retries.
+- Scheduling periodic work.
 
 ## RESTful API
 
