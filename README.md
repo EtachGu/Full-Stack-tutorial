@@ -36,6 +36,7 @@ github Flow 采用fork flow的方式，每位开发者各自维护自己代码�
 |[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|
 |[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)|
 |[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|
+|[Git useful .gitignore templates](https://github.com/github/gitignore)||
 
 ### Markdown
 
