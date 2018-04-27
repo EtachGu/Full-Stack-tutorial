@@ -1,6 +1,34 @@
 # Front End Technology
 
-## 前端知识体系
+- [Front End Technology](#front-end-technology)
+    - [knowledge](#knowledge)
+    - [Javascript](#javascript)
+    - [UI](#ui)
+    - [CSS](#css)
+    - [HTML](#html)
+    - [WebAssembly](#webassembly)
+    - [Angular](#angular)
+    - [React](#react)
+    - [Vue](#vue)
+    - [Gulp](#gulp)
+    - [others](#others)
+    - [shared components](#shared-components)
+    - [online coding](#online-coding)
+    - [richer editor](#richer-editor)
+    - [Chrome](#chrome)
+    - [optimal performance](#optimal-performance)
+    - [CDN](#cdn)
+    - [Sass&Less](#sassless)
+    - [documents](#documents)
+    - [frontend code styles](#frontend-code-styles)
+    - [frontend interview questions](#frontend-interview-questions)
+    - [frontend websites](#frontend-websites)
+    - [JS practices](#js-practices)
+    - [algorithm](#algorithm)
+    - [ES syntactic](#es-syntactic)
+    - [RegExp](#regexp)
+
+## knowledge
 
 [前端知识体系，《现代前段技术解析》](https://github.com/ouvens/frontend-system-map)
 
@@ -173,7 +201,7 @@
 |[Gulp插件](http://gulpjs.com/plugins])|[Gulp不完全入门教程](http://www.ido321.com/1622.html)|
 |[Gulp 入门指南](https://github.com/nimojs/gulp-book)||
 
-## 其他
+## others
 
 | Other | Article |
 | --------- | --------- |
@@ -184,7 +212,7 @@
 |[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
 |[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
 
-## 分享功能
+## shared components
 
 | Share | Reference |
 | --------- | --------- |
@@ -192,7 +220,7 @@
 |[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|
 |[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)||
 
-## 在线演示
+## online coding
 
 | Reference | Reference |
 | --------- | --------- |
@@ -202,7 +230,7 @@
 |[js 在线编辑 - jsdm](http://jsdm.com)|[sql 在线编辑 - sqlfiddle](http://sqlfiddle.com)|
 |[mozilla 在线编辑器](https://thimble.mozilla.org)||
 
-## 富文本编辑器
+## richer editor
 
 | Reference | Reference |
 | --------- | --------- |
@@ -227,7 +255,7 @@
 |[奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍](https://xinranliu.me/2015-05-22-qiqu-performance)|[Chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)|
 |[Chrome开发者工具不完全指南](http://1ke.co/course/361)|[Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)|
 
-## 性能优化
+## optimal performance
 
 | Reference | Reference |
 | --------- | --------- |
@@ -261,7 +289,7 @@
 |[Less](http://less.bootcss.com)||
 
 
-## 前端文档
+## documents
 
 | Reference | Reference |
 | --------- | --------- |
@@ -273,7 +301,7 @@
 |[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)|[结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)|
 |[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)|[Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)|
 
-## 前端规范
+## frontend code styles
 
 | Reference | Reference |
 | --------- | --------- |
@@ -285,7 +313,7 @@
 |[JavaScript风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484)|[网易前端开发规范](http://nec.netease.com/standard)|
 |[前端规范资源列表](https://github.com/ecomfe/spec)|[Web 前端开发规范文档](http://codecloud.net/5622.html)|
 
-## 前端面试
+## frontend interview questions
 
 | Reference | Reference |
 | --------- | --------- |
@@ -296,7 +324,7 @@
 |[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
 |[前端面试大全](https://segmentfault.com/a/1190000005947094)|[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)|
 
-## 前端网站
+## frontend websites
 
 | Reference | Reference |
 | --------- | --------- |
@@ -306,7 +334,7 @@
 |[Codepen](http://codepen.io/)|[Sentsin](http://sentsin.com/daohang/)|
 |[CTOLib](http://www.ctolib.com/javascript/)|[CTOLib/Node](http://www.ctolib.com/nodejs/)|
 
-## JS练习
+## JS practices
 
 | Reference | Reference |
 | --------- | --------- |
@@ -315,14 +343,14 @@
 |[Now Coder牛客网](https://www.nowcoder.com/ta/js-assessment)|[Leetcode](https://leetcode.com/)|
 |[Nodeschool](https://nodeschool.io/)|[Hackerrank](https://www.hackerrank.com/)|
 
-## 算法
+## algorithm
 
 | Reference | Reference |
 | --------- | --------- |
 |[数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)|[常见排序算法（JS版）](https://github.com/twobin/twobinSort)|
 |[经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)|[常见排序算法-js版本](https://github.com/hechangmin/jssort)|
 
-## ES
+## ES syntactic
 
 | Reference | Reference |
 | --------- | --------- |
