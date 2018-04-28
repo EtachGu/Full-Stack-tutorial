@@ -9,6 +9,7 @@
     - [Lua](#lua)
     - [Microservices Architecture 微服务](#microservices-architecture)
     - [Theory fo distributed system](#theory-fo-distributed-system)
+    - [Database](#database)
     - 
 ## Node
 ----
@@ -54,6 +55,10 @@ These are some common use cases:
 - Making sure something is done, by executing it asynchronously and using retries.
 - Scheduling periodic work.
 
+|tool||
+|---|---|
+|virtualenv||
+
 ## RESTful API
 
 [OpenAPI](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)
@@ -92,3 +97,11 @@ OpenID
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
 - [8 fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [FLP 不可能性的](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+
+
+## Database
+
+|postgresql||
+|---|---|
+|[postgresql](https://www.postgresql.org/)||
+|[pgAdmin GUI for Postgresql](https://www.pgadmin.org/)||
