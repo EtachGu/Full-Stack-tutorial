@@ -40,7 +40,7 @@ next generation web framework for node.js
 | --------- | --------- |
 |[awesome-python](https://github.com/vinta/awesome-python)||
 |[Web 框架 Django](https://github.com/django/django) |[Django rest framework ](http://www.django-rest-framework.org/)|
-|[django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/)||
+|[django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/)|[django db optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization/)|
 |[Flask](http://flask.pocoo.org/)||
 |[Full Stack Python ](https://www.fullstackpython.com)|[microservices](https://www.fullstackpython.com/microservices.html)|
 
