@@ -48,6 +48,7 @@ next generation web framework for node.js
 |[django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/)|[django db optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization/)|
 |[Flask](http://flask.pocoo.org/)||
 |[Full Stack Python ](https://www.fullstackpython.com)|[microservices](https://www.fullstackpython.com/microservices.html)|
+|[Pika RabbitMQ](https://github.com/pika/pika)||
 
 **[Celery](http://docs.celeryproject.org/en/latest/index.html)**
 is a task queue with focus on real-time processing, while also supporting task scheduling.
