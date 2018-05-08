@@ -87,6 +87,10 @@ JWT(JSON Web Token) https://jwt.io/
 
 OpenID
 
+|Article|
+|---|
+|[Four Authentication & authorization ](https://blog.csdn.net/gdp12315_gu/article/details/79905424)|
+
 ## Lua
 
 [kong](https://github.com/Kong/kong)基于OpenResty的 API 网关服务和网关服务管理层.
