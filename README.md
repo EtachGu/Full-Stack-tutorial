@@ -4,8 +4,12 @@ A tech stack is a combination of software products and programming languages use
 
 ![Full Stack](images/FullStack.jpg)
 
+[The open source tools and SaaS behind the world's best startups](https://stackshare.io/stacks)
+
 [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
+
 [Curated list of awesome lists, developer](https://github.com/sindresorhus/awesome)
+
 
 - [Basic](#basic)
   - [Git](#git)
