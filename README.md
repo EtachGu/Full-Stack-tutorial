@@ -71,17 +71,18 @@ github Flow 采用fork flow的方式，每位开发者各自维护自己代码�
 
 ## Back End
 
+- [Architecture knowledge](backend/#architecture-knowledge)
 - [Node](backend/#node)
-- [Koa](backend#koa)
-
-- [Python](backend#python)
-
-- [Go](backend/#go)
-
-- [RESTful API](backend#restful-api)
-
-- [Authentication & authorization](backend##authentication--authorization)
-
+- [Koa](backend/#koa)
+- [Go language](backend/#go-language)
+- [Python](backend/#python)
+- [RESTful API](backend/#restful-api)
+- [Authentication & authorization](backend/#authentication-authorization)
+- [Lua](backend/#lua)
+- [Microservices Architecture 微服务](backend/#microservices-architecture)
+- [Load/Stree Test](backend/#load-stree-test)
+- [Theory fo distributed system](backend/#theory-fo-distributed-system)
+- [Database](backend/#database)
 
 ## DevOps
 
