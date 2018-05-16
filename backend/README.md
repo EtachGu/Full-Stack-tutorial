@@ -76,7 +76,14 @@ These are some common use cases:
 ## Java
 ---
 
+
+![spring cloud](../images/diagram-distributed-systems.svg)
 [Java Spring](https://spring.io/)
+[Netlfix Eureka](https://github.com/Netflix/eureka) is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers
+
+[spring cloud netflix](https://github.com/spring-cloud/spring-cloud-netflix)
+Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client Side Load Balancing (Ribbon)
+
 
 |tool|
 [Maven](https://maven.apache.org/what-is-maven.html) is a tool that can now be used for building and managing any Java-based project.
