@@ -78,6 +78,9 @@ These are some common use cases:
 
 Java Spring 
 
+|tool|
+[Maven](https://maven.apache.org/what-is-maven.html) is a tool that can now be used for building and managing any Java-based project.
+
 ## RESTful API
 
 [OpenAPI](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)
