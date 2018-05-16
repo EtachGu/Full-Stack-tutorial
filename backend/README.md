@@ -76,7 +76,7 @@ These are some common use cases:
 ## Java
 ---
 
-Java Spring 
+[Java Spring](https://spring.io/)
 
 |tool|
 [Maven](https://maven.apache.org/what-is-maven.html) is a tool that can now be used for building and managing any Java-based project.
