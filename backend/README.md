@@ -84,6 +84,7 @@ These are some common use cases:
 [spring cloud netflix](https://github.com/spring-cloud/spring-cloud-netflix)
 Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client Side Load Balancing (Ribbon)
 
+[DTO VO POJO JavaBean](https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans)
 
 |tool|
 [Maven](https://maven.apache.org/what-is-maven.html) is a tool that can now be used for building and managing any Java-based project.
