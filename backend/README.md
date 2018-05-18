@@ -87,6 +87,8 @@ Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul
 
 [DTO VO POJO JavaBean](https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans)
 
+[**Sample** Rest.js and Spring Data REST ](https://spring.io/guides/tutorials/react-and-spring-data-rest/)
+
 [Playframework is based on a lightweight, stateless, web-friendly architecture](https://github.com/playframework/playframework)
 |tool|
 [Maven](https://maven.apache.org/what-is-maven.html) is a tool that can now be used for building and managing any Java-based project.
