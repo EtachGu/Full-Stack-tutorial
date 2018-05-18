@@ -79,6 +79,7 @@ These are some common use cases:
 
 ![spring cloud](../images/diagram-distributed-systems.svg)
 [Java Spring](https://spring.io/)
+[Spring boot优缺点](https://www.zhihu.com/question/39483566)
 [Netlfix Eureka](https://github.com/Netflix/eureka) is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers
 
 [spring cloud netflix](https://github.com/spring-cloud/spring-cloud-netflix)
