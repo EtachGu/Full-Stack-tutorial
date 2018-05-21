@@ -49,7 +49,8 @@ github Flow 采用fork flow的方式，每位开发者各自维护自己代码�
 |[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)|[Markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)|
 |[Mdeditor(一款国内的在线markdown编辑器)](https://www.zybuluo.com/mdeditor)|[Stackedit(国外的在线markdown编辑器，功能强大，同步云盘)](https://stackedit.io)|
 |[Mditor一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)|[lepture-editor](https://github.com/lepture/editor)|
-|[Markdown-editor](https://github.com/jbt/markdown-editor)||
+|[Markdown-editor](https://github.com/jbt/markdown-editor)|[github Markdown](https://guides.github.com/features/mastering-markdown/)|
+[emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/) |
 
 ## Front End
 
