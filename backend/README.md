@@ -5,19 +5,20 @@
 ----|----|----|----|----|
 |Multi-Threads||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
-- [Architecture knowledge](#architecture-knowledge)
-- [Node](#node)
-    - [Koa](#koa)
-- [Go language](#go-language)
-- [Python](#python)
-- [Java](#java)
-- [RESTful API](#restful-api)
-- [Authentication & authorization](#authentication-authorization)
-- [Lua](#lua)
-- [Microservices Architecture 微服务](#microservices-architecture)
-- [Load/Stree Test](#load-stree-test)
-- [Theory fo distributed system](#theory-fo-distributed-system)
-- [Database](#database)
+- [Back End Technology](#back-end-technology)
+    - [Architecture knowledge](#architecture-knowledge)
+    - [Node](#node)
+        - [Koa](#koa)
+    - [Go language](#go-language)
+    - [Python](#pythonhttps---wwwpythonorg)
+    - [Java](#java)
+    - [RESTful API](#restful-api)
+    - [Authentication & authorization](#authentication-authorization)
+    - [Lua](#lua)
+    - [Microservices Architecture 微服务](#microservices-architecture)
+    - [Load/Stree Test](#load-stree-test)
+    - [Theory fo distributed system](#theory-fo-distributed-system)
+    - [Database](#database)
 
 ## Architecture knowledge
 
@@ -150,7 +151,23 @@ OpenID
 
 ## Database
 
+| |Oracle|Postgresql|Mysql|SQLite|
+|---|----|----|----|----|
+|Introduction||||A very powerful, embedded relational database management system|
+|Relational Database|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Advantage||||||
+|Disadvantage|||||
+|When to use||
+
 |postgresql||
 |---|---|
 |[postgresql](https://www.postgresql.org/)||
 |[pgAdmin GUI for Postgresql](https://www.pgadmin.org/)||
+
+
+|Oracle|
+
+
+
+reference:
+[1]https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
