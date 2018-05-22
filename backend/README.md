@@ -155,14 +155,14 @@ OpenID
 |---|----|----|----|----|
 |Introduction||||A very powerful, embedded relational database management system|
 |Relational Database|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Advantage||||||
+|Advantage|||||file base, standards-aware, greate developing and even testing |
 |Disadvantage|||||
 |When to use||
 
-|postgresql||
-|---|---|
-|[postgresql](https://www.postgresql.org/)||
-|[pgAdmin GUI for Postgresql](https://www.pgadmin.org/)||
+|postgresql|
+|---|
+|[postgresql](https://www.postgresql.org/)|
+|[pgAdmin GUI for Postgresql](https://www.pgadmin.org/)|
 
 
 |Oracle|
