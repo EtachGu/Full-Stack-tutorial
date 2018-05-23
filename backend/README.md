@@ -103,6 +103,8 @@ Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul
 
 [RESTful API introductions](https://idratherbewriting.com/learnapidoc/index.html)
 
+[HATEOAS ( Hypermedia as Engine of Application State)](https://en.wikipedia.org/wiki/HATEOAS)
+
 
 ## Authentication & authorization
 OAuth
