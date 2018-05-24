@@ -94,6 +94,7 @@ Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul
 [Playframework is based on a lightweight, stateless, web-friendly architecture](https://github.com/playframework/playframework)
 |tool|
 [Maven](https://maven.apache.org/what-is-maven.html) is a tool that can now be used for building and managing any Java-based project.
+[Google guava](https://github.com/google/guava) is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, I/O, hashing, primitives, reflection, string processing, and much more!
 
 ## RESTful API
 
