@@ -168,8 +168,6 @@ OpenID
 |[pgAdmin GUI for Postgresql](https://www.pgadmin.org/)|
 
 
-|Oracle|
-
 
 
 reference:
