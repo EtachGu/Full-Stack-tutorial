@@ -158,10 +158,10 @@ OpenID
 | ------------------- | -------------------------------------------------------------- | ------------------ | ---------------------------------- | --------------------------------------------------------------- |
 | Introduction        |                                                                |                    |                                    | A very powerful, embedded relational database management system |
 | Relational Database | :heavy_check_mark:                                             | :heavy_check_mark: | :heavy_check_mark:                 | :heavy_check_mark:                                              |
-| Advantage           | file base, standards-aware, greate developing and even testing | An open-source SQL standard compliant RDBMS,Strong community,Strong third-party support,Extensible,Objective,                    |Easy to work,Feature rich,Secure, Scalabel, Speedy                                    |File based, Standards-aware|
-| Disadvantage        |                                                                                                                          |No user management, Lack of possibility to tinker with for additional performance|
-| When to use         |                                                                                     |Distributed operations, Hight security,Web site or Web app, Custom solution                                 |Embedded app, Disk access replacement, Testing |
-| When not to use     |                                                                |                    |[SQL Compliance](https://en.wikipedia.org/wiki/SQL_compliance), Concurrency, Full-text search                                  | Multi-User App, High write volumes |
+| Advantage           |                               | An open-source SQL standard compliant RDBMS,Strong community,Strong third-party support,Extensible,Objective                    |Easy to work,Feature rich,Secure, Scalabel, Speedy                                    |File based, Standards-aware|
+| Disadvantage        |                                    |      Performance,Hosting                                          |                   |No user management, Lack of possibility to tinker with for additional performance|
+| When to use         |                                                     | Data Integrity, Complex custom procedures,Integration,complex design                                |Distributed operations, Hight security,Web site or Web app, Custom solution                                 |Embedded app, Disk access replacement, Testing |
+| When not to use     |                                                                | Speed,Simple set ups,Replication                   |[SQL Compliance](https://en.wikipedia.org/wiki/SQL_compliance), Concurrency, Full-text search                                  | Multi-User App, High write volumes |
 
 |postgresql|
 |---|
