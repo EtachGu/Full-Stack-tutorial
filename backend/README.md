@@ -1,9 +1,9 @@
 # Back End Technology
 
 
-| | [Node](#node) | [Go](#go) | [Python](#python)| [Java](#java) 
-----|----|----|----|----|
-|Multi-Threads||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|               | [Node](#node)      | [Go](#go)          | [Python](#python)  | [Java](#java)      |
+| ------------- | ------------------ | ------------------ | ------------------ | ------------------ |
+| Multi-Threads | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 - [Back End Technology](#back-end-technology)
     - [Architecture knowledge](#architecture-knowledge)
@@ -26,13 +26,13 @@
 
 ## Node
 ----
-| Node | Article |
-| --------- | --------- |
-|[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|[NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)|
-| **Reference** | **Reference** |
-|[Node.js 包教不包会](https://github.com/alsotang/node-lessons)|[七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)|
-|[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)|
-|[Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)||
+| Node                                                                                     | Article                                                                                |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [node技巧](https://github.com/Wscats/Good-text-Share/issues/44)                          | [NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer) |
+| **Reference**                                                                            | **Reference**                                                                          |
+| [Node.js 包教不包会](https://github.com/alsotang/node-lessons)                           | [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)                               |
+| [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)                              | [Node入门](http://www.nodebeginner.org/index-zh-cn.html)                               |
+| [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005) |
 
 ###  Koa
 next generation web framework for node.js
@@ -41,23 +41,23 @@ next generation web framework for node.js
 
 ## Go language
 ----
-| Article | Article |
-| --------- | --------- |
-|[Go Books](https://github.com/dariubs/GoBooks) ||
-|[awesome-go](https://github.com/avelino/awesome-go)||
-|[Go kit](https://github.com/go-kit/kit)||
+| Article                                             | Article |
+| --------------------------------------------------- | ------- |
+| [Go Books](https://github.com/dariubs/GoBooks)      |
+| [awesome-go](https://github.com/avelino/awesome-go) |
+| [Go kit](https://github.com/go-kit/kit)             |
 
 ## [Python](https://www.python.org)
 -----
-| Article | Article |
-| --------- | --------- |
-|[awesome-python](https://github.com/vinta/awesome-python)||
-|[Web 框架 Django](https://github.com/django/django) |[Django rest framework ](http://www.django-rest-framework.org/)|
-|[django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/)|[django db optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization/)|
-|[Flask](http://flask.pocoo.org/)||
-|[Full Stack Python ](https://www.fullstackpython.com)|[microservices](https://www.fullstackpython.com/microservices.html)|
-|[Pika RabbitMQ](https://github.com/pika/pika)||
-|[Green python Color, also for Djnago Test](https://github.com/CleanCut/green)||
+| Article                                                                       | Article                                                                                 |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [awesome-python](https://github.com/vinta/awesome-python)                     |
+| [Web 框架 Django](https://github.com/django/django)                           | [Django rest framework ](http://www.django-rest-framework.org/)                         |
+| [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/)     | [django db optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization/) |
+| [Flask](http://flask.pocoo.org/)                                              |
+| [Full Stack Python ](https://www.fullstackpython.com)                         | [microservices](https://www.fullstackpython.com/microservices.html)                     |
+| [Pika RabbitMQ](https://github.com/pika/pika)                                 |
+| [Green python Color, also for Djnago Test](https://github.com/CleanCut/green) |
 
 **[Celery](http://docs.celeryproject.org/en/latest/index.html)**
 is a task queue with focus on real-time processing, while also supporting task scheduling.
@@ -71,9 +71,9 @@ These are some common use cases:
 - Making sure something is done, by executing it asynchronously and using retries.
 - Scheduling periodic work.
 
-|tool||
-|---|---|
-|[virtualenv](https://virtualenv.pypa.io/)||
+| tool                                      |
+| ----------------------------------------- |  |
+| [virtualenv](https://virtualenv.pypa.io/) |
 
 ## Java
 ---
@@ -154,13 +154,14 @@ OpenID
 
 ## Database
 
-| |Oracle|Postgresql|Mysql|SQLite|
-|---|----|----|----|----|
-|Introduction||||A very powerful, embedded relational database management system|
-|Relational Database|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Advantage|||||file base, standards-aware, greate developing and even testing |
-|Disadvantage|||||
-|When to use||
+|                     | Oracle                                                         | Postgresql         | Mysql                              | SQLite                                                          |
+| ------------------- | -------------------------------------------------------------- | ------------------ | ---------------------------------- | --------------------------------------------------------------- |
+| Introduction        |                                                                |                    |                                    | A very powerful, embedded relational database management system |
+| Relational Database | :heavy_check_mark:                                             | :heavy_check_mark: | :heavy_check_mark:                 | :heavy_check_mark:                                              |
+| Advantage           | file base, standards-aware, greate developing and even testing | An open-source SQL standard compliant RDBMS,Strong community,Strong third-party support,Extensible,Objective,                    |Easy to work,Feature rich,Secure, Scalabel, Speedy                                    |File based, Standards-aware|
+| Disadvantage        |                                                                                                                          |No user management, Lack of possibility to tinker with for additional performance|
+| When to use         |                                                                                     |Distributed operations, Hight security,Web site or Web app, Custom solution                                 |Embedded app, Disk access replacement, Testing |
+| When not to use     |                                                                |                    |[SQL Compliance](https://en.wikipedia.org/wiki/SQL_compliance), Concurrency, Full-text search                                  | Multi-User App, High write volumes |
 
 |postgresql|
 |---|
