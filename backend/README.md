@@ -72,7 +72,7 @@ These are some common use cases:
 - Scheduling periodic work.
 
 | tool                                      |
-| ----------------------------------------- |  |
+| ----------------------------------------- |
 | [virtualenv](https://virtualenv.pypa.io/) |
 
 ## Java
