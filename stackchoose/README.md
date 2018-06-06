@@ -15,8 +15,22 @@ For example: .NET and Java both include compilers—programs that convert langua
 
 - **Is cost a big factor?** Cost is a pretty open-ended aspect and hard to predict, but things like licenses, the cost to hire developers who know more obscure languages, hours spent in development, and future cost to maintain are all things to consider. For example, .NET code may take longer to write but is easier to debug in the future if problems occur.
 
-- **What database is best for your project? **
+- **What database is best for your project?**
 
 How you structure your data is central to choosing your stack. For example, if you opt to go with a NoSQL database, you’ll want to choose other components that are most compatible with that database format.
 
 Keep long-term maintenance and security on your radar. It’s always possible to update parts of a stack with some reconfiguration, but there’s nothing more efficient than a solid foundation. Longer code takes more time to process, while shorter, more concise code can sometimes be cryptic and harder to debug.
+
+### 需要考虑如下几个方面
+
+1. 能够满足业务的功能需求， 能够跟着业务一起增长（考虑业务规模，选择不同技术方案）
+2. 能满足性能要求
+3. 安全（安全级别，权限）
+4. 技术的支持情况，社区活跃度，维护情况，
+5. 开发效率
+6. 便于测试、维护
+7. 扩展性
+8. 法律问题（使用范围）
+9. 学习曲线和开发难度问题，主要结合当前团队的技术特点，熟练程度来考虑
+10. 如果付费，则需要考虑购买成本
+11. 便于测试、维护
