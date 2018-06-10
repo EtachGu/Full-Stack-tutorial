@@ -1,7 +1,7 @@
 # Back End Technology
 
 
-|               | [Node](#node)      | [Go](#go)          | [Python](#python)  | [Java](#java)      |
+|               | [Node](#node) ([deno](https://github.com/ry/deno))      | [Go](#go)          | [Python](#python)  | [Java](#java)      |
 | ------------- | ------------------ | ------------------ | ------------------ | ------------------ |
 | Multi-Threads | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
