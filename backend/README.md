@@ -11,7 +11,7 @@
     - [Node](#node)
         - [Koa](#koa)
     - [Go language](#go-language)
-    - [Python](#pythonhttps---wwwpythonorg)
+    - [Python](#python)
     - [Java](#java)
     - [RESTful API](#restful-api)
     - [Authentication & authorization](#authentication-authorization)
@@ -99,6 +99,10 @@ Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul
 
 ## RESTful API
 
+[Best practies for a pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+[HTTP API Design](https://github.com/interagent/http-api-design)
+
 [OpenAPI](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)
 
 [RESTful API design](https://github.com/aisuhua/restful-api-design-references)
@@ -106,6 +110,10 @@ Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul
 [RESTful API introductions](https://idratherbewriting.com/learnapidoc/index.html)
 
 [HATEOAS ( Hypermedia as Engine of Application State)](https://en.wikipedia.org/wiki/HATEOAS)
+
+[Microsoft RESTful API guidelines](https://github.com/Microsoft/api-guidelines)
+
+
 
 
 ## Authentication & authorization
