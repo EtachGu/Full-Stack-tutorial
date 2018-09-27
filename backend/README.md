@@ -14,10 +14,10 @@
     - [Python](#python)
     - [Java](#java)
     - [RESTful API](#restful-api)
-    - [Authentication & authorization](#authentication-authorization)
+    - [Authentication & authorization](#authentication--authorization)
     - [Lua](#lua)
-    - [Microservices Architecture 微服务](#microservices-architecture)
-    - [Load/Stree Test](#load-stree-test)
+    - [Microservices Architecture 微服务](#microservices-architecture-%E5%BE%AE%E6%9C%8D%E5%8A%A1)
+    - [Load/Stree Test](#loadstree-test)
     - [Theory fo distributed system](#theory-fo-distributed-system)
     - [Database](#database)
 
@@ -126,7 +126,7 @@ tokn
 
 JWT(JSON Web Token) https://jwt.io/
 
-OpenID
+OpenID https://openid.net
 
 |Article|
 |---|
