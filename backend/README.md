@@ -135,6 +135,7 @@ OpenID https://openid.net
 |OpenSource|
 |---|
 |[Keycloak an open source Identity and Access Management solution](https://github.com/keycloak/keycloak)|
+|[An OpenID Connect reference implementation in Java on the Spring platform](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server)|
 
 ## Lua
 
