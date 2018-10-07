@@ -20,6 +20,7 @@
     - [Load/Stree Test](#loadstree-test)
     - [Theory fo distributed system](#theory-fo-distributed-system)
     - [Database](#database)
+    - [Caching](#caching)
 
 ## Architecture knowledge
 
@@ -184,11 +185,22 @@ OpenID https://openid.net
 
 
 ![mysql](../images/mysql.png)
+
 |MySQL|
 |---|
 |[MySQL8.0 new feature支持文档存储](https://www.mysql.com/why-mysql/white-papers/whats-new-mysql-8-0/)|
 
 
-
 reference:
 [1]https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+
+
+
+
+## Caching
+
+[Memcached VS Redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
+[System Properties Comparison Memcached vs. Redis](https://db-engines.com/en/system/Memcached%3BRedis)
+
+Redis is better than Memcache
+
