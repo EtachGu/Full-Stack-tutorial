@@ -21,6 +21,10 @@
     - [Theory fo distributed system](#theory-fo-distributed-system)
     - [Database](#database)
     - [Caching](#caching)
+    - [Desgin Pattern 23种设计模式](#desgin-pattern-23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+        - [创建型](#%E5%88%9B%E5%BB%BA%E5%9E%8B)
+        - [结构型](#%E7%BB%93%E6%9E%84%E5%9E%8B)
+        - [行为模式](#%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F)
 
 ## Architecture knowledge
 
@@ -215,6 +219,41 @@ reference:
 [System Properties Comparison Memcached vs. Redis](https://db-engines.com/en/system/Memcached%3BRedis)
 
 Redis is better than Memcache
+
+
+## Desgin Pattern 23种设计模式
+
+### 创建型
+
+- Abstract Factory 抽象工厂
+- Builder 构建器
+- Factory Method 工厂方法
+- Prototype 原型
+- Singleton 单例
+
+### 结构型
+
+- Adapter 适配器
+- Bridge 桥接
+- Composite 组合
+- Decorator 装饰器
+- Facade 外观模式
+- Flyweight 享元模式
+- Proxy 代理
+
+### 行为模式
+
+- Chain of Responsiblity 责任链
+- Command 命令
+- Iterpreter 解释器
+- Iterator 迭代器
+- Mediator 中介者
+- Memento 备忘录
+- Observer 观察者
+- State 状态
+- Strategy 策略
+- Template Method 模板方法
+- Visitor 访问者
 
 
 
