@@ -17,6 +17,7 @@
     - [Authentication & authorization](#authentication--authorization)
     - [Lua](#lua)
     - [Microservices Architecture 微服务](#microservices-architecture-%E5%BE%AE%E6%9C%8D%E5%8A%A1)
+        - [12 Factors](#12-factors)
     - [Load/Stree Test](#loadstree-test)
     - [Theory fo distributed system](#theory-fo-distributed-system)
     - [Database](#database)
@@ -162,6 +163,24 @@ Tools for Microservices
 |[Conductor](https://netflix.github.io/conductor/)|Netflix 的微服务编排引擎，是 Netflix OSS 生态系统的一部分。它可以运行在云端，并实现了微服务的流程编配。它还能够用于控制和可视化微服务之间的交互。|
 |[Seneca](https://github.com/senecajs/seneca)|开发人员可以使用 Seneca，来轻松构建基于消息的微服务，它是 Node.js 的微服务工具包，可以用它写出干净而且结构良好的代码，并系统化应用程序的业务逻辑。|
 |[Elixir](https://elixir-lang.org/)|Elixir is a dynamic, functional language designed for building scalable and maintainable applications.|
+
+
+### [12 Factors](https://12factor.net/)
+
+The factors represent a set of guidelines or best practices for portable, resilient applications that will thrive in cloud environments(specifically software as a service applications)
+
+1. There should be a one-to-one association between a versioned codebase (for example,an IT repository) and a deployed service. The same codebase is used for many deployments.
+2. Services should explicitly declare all dependencies, and should not rely on the presence of system-level tools or libraries.
+3. Configuration that varies between deployment environments should be stored in the environment (specifically in environment variables).
+4. All backing services are treated as attached resources, which are managed (attached and detached) by the execution environment.
+5. The delivery pipeline should have strictly separate stages: Build, release, and run.
+6. Applications should be deployed as one or more stateless processes. Specifically, transient processes must be stateless and share nothing. Persisted data should be stored in an appropriate backing service.
+7. Self-contained services should make themselves available to other services by listening on a specified port.
+8. Concurrency is achieved by scaling individual processes (horizontal scaling).
+9. Processes must be disposable: Fast startup and graceful shutdown behaviors lead to a more robust and resilient system.
+10. All environments, from local development to production, should be as similar as possible.
+11. 11.Applications should produce logs as event streams (for example, writing to stdout and stderr), and trust the execution environment to aggregate streams.
+12. If admin tasks are needed, they should be kept in source control and packaged alongside the application to ensure that it is run with the same environment as the application.
 
 ## Load/Stree Test
 
