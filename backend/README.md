@@ -119,7 +119,7 @@ Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul
 
 [Microsoft RESTful API guidelines](https://github.com/Microsoft/api-guidelines)
 
-
+[API Style book](http://apistylebook.com/design/guidelines/)
 
 
 ## Authentication & authorization
