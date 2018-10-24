@@ -134,6 +134,8 @@ JWT(JSON Web Token) https://jwt.io/
 
 OpenID https://openid.net
 
+Spring Security Domain Object Security (ACLs)
+
 |Article|
 |---|
 |[Four Authentication & authorization ](https://blog.csdn.net/gdp12315_gu/article/details/79905424)|
