@@ -135,6 +135,8 @@ JWT(JSON Web Token) https://jwt.io/
 OpenID https://openid.net
 
 Spring Security Domain Object Security (ACLs)
+https://www.concretepage.com/spring/spring-security/
+
 
 |Article|
 |---|
