@@ -137,6 +137,9 @@ OpenID https://openid.net
 Spring Security Domain Object Security (ACLs)
 https://www.concretepage.com/spring/spring-security/
 
+LDAP [OpenLDAP](http://www.zytrax.com/books/ldap/)
+LDAP is often used by organizations as a central repository for user information and as an authentication service. It can also be used to store the role information for application users.
+
 
 |Article|
 |---|
