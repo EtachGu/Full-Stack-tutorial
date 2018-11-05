@@ -140,6 +140,14 @@ https://www.concretepage.com/spring/spring-security/
 LDAP [OpenLDAP](http://www.zytrax.com/books/ldap/)
 LDAP is often used by organizations as a central repository for user information and as an authentication service. It can also be used to store the role information for application users.
 
+IAM (identity and access management)
+all forms of access control can ultimately be mapped back to one of four classic models:
+- Discretionary Access Control (DAC), 
+- Mandatory Access Control (MAC), 
+- Role-based Access Control (RBAC), 
+- Attribute-based Access Control (ABAC)
+
+http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explained
 
 |Article|
 |---|
