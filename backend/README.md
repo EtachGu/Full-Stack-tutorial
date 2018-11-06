@@ -26,6 +26,7 @@
         - [创建型](#%E5%88%9B%E5%BB%BA%E5%9E%8B)
         - [结构型](#%E7%BB%93%E6%9E%84%E5%9E%8B)
         - [行为模式](#%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F)
+    - [FMEA(Failure mode and effects analysis) 故障模式与影响分析](#fmeafailure-mode-and-effects-analysis-%E6%95%85%E9%9A%9C%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90)
 
 ## Architecture knowledge
 
@@ -289,5 +290,10 @@ Redis is better than Memcache
 - Template Method 模板方法
 - Visitor 访问者
 
+
+
+## FMEA(Failure mode and effects analysis) 故障模式与影响分析
+
+又称失效模式与后果分析、失效模式与效应分析、故障模式与后果分析等。
 
 
