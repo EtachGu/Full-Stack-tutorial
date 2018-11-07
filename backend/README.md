@@ -27,6 +27,7 @@
         - [结构型](#%E7%BB%93%E6%9E%84%E5%9E%8B)
         - [行为模式](#%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F)
     - [FMEA(Failure mode and effects analysis) 故障模式与影响分析](#fmeafailure-mode-and-effects-analysis-%E6%95%85%E9%9A%9C%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90)
+    - [Search](#search)
 
 ## Architecture knowledge
 
@@ -299,3 +300,8 @@ Redis is better than Memcache
 1. 找出产品或过程中潜在的故障模式
 2. 根据相应的评价体系对找出的潜在故障模式进行风险量化评估
 3. 列出故障的起因/机理，寻找预防或改进措施
+
+## Search
+
+ElasticSearch
+https://www.elastic.co/guide/en/elasticsearch/reference/current/_basic_concepts.html
