@@ -305,3 +305,9 @@ Redis is better than Memcache
 
 ElasticSearch
 https://www.elastic.co/guide/en/elasticsearch/reference/current/_basic_concepts.html
+
+Apache Solr
+
+Sphinx
+
+Apache lucene
