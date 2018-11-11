@@ -257,6 +257,8 @@ reference:
 Redis is better than Memcache
 
 
+[Redis 中文网](http://www.redis.net.cn/tutorial/3502.html)
+
 ## Desgin Pattern 23种设计模式
 
 ### 创建型
