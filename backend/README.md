@@ -259,6 +259,11 @@ Redis is better than Memcache
 
 [Redis 中文网](http://www.redis.net.cn/tutorial/3502.html)
 
+缓存设计的要点
+1.缓存穿透，避免缓存穿透
+2.缓存雪崩，加锁或者后台更新
+3.缓存热点，备份 多副本
+
 ## Desgin Pattern 23种设计模式
 
 ### 创建型
