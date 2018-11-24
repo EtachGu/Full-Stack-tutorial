@@ -129,6 +129,7 @@ Netlfix Hystrix 限流熔断，
 ## Authentication & authorization
 OAuth
 [OAuth 2](https://oauth.net/2/)
+[SSO how does single-sign-on work](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
 
 Basic 
 
