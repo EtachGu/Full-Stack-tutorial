@@ -326,3 +326,12 @@ Apache lucene
 ## Netty
 
 https://mp.weixin.qq.com/s/FUHnDFiHWeJC1J6-jAh9mA
+
+
+## File System/Server
+
+Based On HBase
+
+Small File Server
+
+淘宝TFS、京东 JFS、Facebook 的 Haystack
