@@ -1,55 +1,60 @@
 # Back End Technology
 
+|               | [Node](#node) ([deno](https://github.com/ry/deno)) | [Go](#go)          | [Python](#python)  | [Java](#java)      |
+| ------------- | -------------------------------------------------- | ------------------ | ------------------ | ------------------ |
+| Multi-Threads | :heavy_check_mark:                                 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| When to use   |
 
-|               | [Node](#node) ([deno](https://github.com/ry/deno))      | [Go](#go)          | [Python](#python)  | [Java](#java)      |
-| ------------- | ------------------ | ------------------ | ------------------ | ------------------ |
-| Multi-Threads | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-|When to use|
-
-- [Back End Technology](#back-end-technology)
-    - [Architecture knowledge](#architecture-knowledge)
-    - [Node](#node)
-        - [Koa](#koa)
-    - [Go language](#go-language)
-    - [Python](#python)
-    - [Java](#java)
-    - [RESTful API](#restful-api)
-    - [Authentication & authorization](#authentication--authorization)
-    - [Lua](#lua)
-    - [Microservices Architecture 微服务](#microservices-architecture-%E5%BE%AE%E6%9C%8D%E5%8A%A1)
-        - [12 Factors](#12-factors)
-    - [Load/Stree Test](#loadstree-test)
-    - [Theory fo distributed system](#theory-fo-distributed-system)
-    - [Database](#database)
-    - [Caching](#caching)
-    - [Desgin Pattern 23种设计模式](#desgin-pattern-23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-        - [创建型](#%E5%88%9B%E5%BB%BA%E5%9E%8B)
-        - [结构型](#%E7%BB%93%E6%9E%84%E5%9E%8B)
-        - [行为模式](#%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F)
-    - [FMEA(Failure mode and effects analysis) 故障模式与影响分析](#fmeafailure-mode-and-effects-analysis-%E6%95%85%E9%9A%9C%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90)
-    - [Search](#search)
+-   [Back End Technology](#back-end-technology)
+    -   [Architecture knowledge](#architecture-knowledge)
+    -   [Node](#node)
+        -   [Koa](#koa)
+    -   [Go language](#go-language)
+    -   [Python](#python)
+    -   [Java](#java)
+    -   [RESTful API](#restful-api)
+    -   [Authentication & authorization](#authentication--authorization)
+    -   [Lua](#lua)
+    -   [Microservices Architecture 微服务](#microservices-architecture-%E5%BE%AE%E6%9C%8D%E5%8A%A1)
+        -   [12 Factors](#12-factors)
+    -   [Load/Stree Test](#loadstree-test)
+    -   [Theory fo distributed system](#theory-fo-distributed-system)
+    -   [Database](#database)
+    -   [Caching](#caching)
+    -   [Desgin Pattern 23 种设计模式](#desgin-pattern-23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+        -   [创建型](#%E5%88%9B%E5%BB%BA%E5%9E%8B)
+        -   [结构型](#%E7%BB%93%E6%9E%84%E5%9E%8B)
+        -   [行为模式](#%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F)
+    -   [FMEA(Failure mode and effects analysis) 故障模式与影响分析](#fmeafailure-mode-and-effects-analysis-%E6%95%85%E9%9A%9C%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90)
+    -   [Search](#search)
 
 ## Architecture knowledge
 
 [architect-awesome](https://github.com/xingshaocheng/architect-awesome)
 
 ## Node
-----
-| Node                                                                                     | Article                                                                                |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [node技巧](https://github.com/Wscats/Good-text-Share/issues/44)                          | [NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer) |
-| **Reference**                                                                            | **Reference**                                                                          |
-| [Node.js 包教不包会](https://github.com/alsotang/node-lessons)                           | [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)                               |
-| [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)                              | [Node入门](http://www.nodebeginner.org/index-zh-cn.html)                               |
-| [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005) |
 
-###  Koa
+---
+
+| Node                                                                                        | Article                                                                                 |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [node 技巧](https://github.com/Wscats/Good-text-Share/issues/44)                            | [NodeJs 静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer) |
+| **Reference**                                                                               | **Reference**                                                                           |
+| [Node.js 包教不包会](https://github.com/alsotang/node-lessons)                              | [七天学会 NodeJS](http://nqdeng.github.io/7-days-nodejs/)                               |
+| [从零开始 nodejs 系列文章](http://blog.fens.me/series-nodejs)                               | [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)                               |
+| [Node 初学者入门，一本全面的 NodeJS 教程](http://ourjs.com/detail/529ca5950cb6498814000005) |
+
+### Koa
+
 next generation web framework for node.js
 [Koa](https://github.com/koajs)
+
 [koa middleware](https://github.com/koajs/koa/wiki)
 
 ## Go language
-----
+
+---
+
 | Article                                             | Article |
 | --------------------------------------------------- | ------- |
 | [Go Books](https://github.com/dariubs/GoBooks)      |
@@ -57,7 +62,9 @@ next generation web framework for node.js
 | [Go kit](https://github.com/go-kit/kit)             |
 
 ## [Python](https://www.python.org)
------
+
+---
+
 | Article                                                                       | Article                                                                                 |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [awesome-python](https://github.com/vinta/awesome-python)                     |
@@ -75,22 +82,25 @@ Why we need Task Queue in Web Context?
 
 These are some common use cases:
 
-- Running something in the background. For example, to finish the web request as soon as possible, then update the users page incrementally. This gives the user the impression of good performance and “snappiness”, even though the real work might actually take some time.
-- Running something after the web request has finished.
-- Making sure something is done, by executing it asynchronously and using retries.
-- Scheduling periodic work.
+-   Running something in the background. For example, to finish the web request as soon as possible, then update the users page incrementally. This gives the user the impression of good performance and “snappiness”, even though the real work might actually take some time.
+-   Running something after the web request has finished.
+-   Making sure something is done, by executing it asynchronously and using retries.
+-   Scheduling periodic work.
 
 | tool                                      |
 | ----------------------------------------- |
 | [virtualenv](https://virtualenv.pypa.io/) |
 
 ## Java
+
 ---
 
-
 ![spring cloud](../images/diagram-distributed-systems.svg)
+
 [Java Spring](https://spring.io/)
-[Spring boot优缺点](https://www.zhihu.com/question/39483566)
+
+[Spring boot 优缺点](https://www.zhihu.com/question/39483566)
+
 [Netlfix Eureka](https://github.com/Netflix/eureka) is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers
 
 [spring cloud netflix](https://github.com/spring-cloud/spring-cloud-netflix)
@@ -125,13 +135,14 @@ Netlfix Hystrix 限流熔断，
 
 [API Style book](http://apistylebook.com/design/guidelines/)
 
-
 ## Authentication & authorization
+
 OAuth
 [OAuth 2](https://oauth.net/2/)
+
 [SSO how does single-sign-on work](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
 
-Basic 
+Basic
 
 tokn
 
@@ -147,43 +158,41 @@ LDAP is often used by organizations as a central repository for user information
 
 IAM (identity and access management)
 all forms of access control can ultimately be mapped back to one of four classic models:
-- Discretionary Access Control (DAC), 
-- Mandatory Access Control (MAC), 
-- Role-based Access Control (RBAC), 
-- Attribute-based Access Control (ABAC)
+
+-   Discretionary Access Control (DAC),
+-   Mandatory Access Control (MAC),
+-   Role-based Access Control (RBAC),
+-   Attribute-based Access Control (ABAC)
 
 http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explained
 
-|Article|
-|---|
-|[Four Authentication & authorization ](https://blog.csdn.net/gdp12315_gu/article/details/79905424)|
+| Article                                                                                            |
+| -------------------------------------------------------------------------------------------------- |
+| [Four Authentication & authorization ](https://blog.csdn.net/gdp12315_gu/article/details/79905424) |
 
-|OpenSource|
-|---|
-|[Keycloak an open source Identity and Access Management solution](https://github.com/keycloak/keycloak)|
-|[An OpenID Connect reference implementation in Java on the Spring platform](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server)|
+| OpenSource                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Keycloak an open source Identity and Access Management solution](https://github.com/keycloak/keycloak)                                           |
+| [An OpenID Connect reference implementation in Java on the Spring platform](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) |
 
 ## Lua
 
-[kong](https://github.com/Kong/kong)基于OpenResty的 API 网关服务和网关服务管理层.
-
+[kong](https://github.com/Kong/kong)基于 OpenResty 的 API 网关服务和网关服务管理层.
 
 ## Microservices Architecture 微服务
 
-- [What is microservice](https://martinfowler.com/articles/microservices.html)
-- [《微服务：从设计到部署》中文版](https://legacy.gitbook.com/book/docshome/microservices/details)
-
+-   [What is microservice](https://martinfowler.com/articles/microservices.html)
+-   [《微服务：从设计到部署》中文版](https://legacy.gitbook.com/book/docshome/microservices/details)
 
 Tools for Microservices
-|名称|  说明 |
+|名称| 说明 |
 |---|---|
-|[API Fortress](https://apifortress.com/)|API 测试和健康检测工具，为企业级 API 提供自动化的功能测试、健康检测和负载测试。它的设计原则是无代码，完全基于现代 API 架构实践和模式而构建  **收费**|
+|[API Fortress](https://apifortress.com/)|API 测试和健康检测工具，为企业级 API 提供自动化的功能测试、健康检测和负载测试。它的设计原则是无代码，完全基于现代 API 架构实践和模式而构建 **收费**|
 |[Graylog](https://www.graylog.org/)|Security Incident and Event Management Report|
 |[Istio](https://github.com/istio/istio)|它支持在 Kubernetes 上进行服务部署，其服务网格技术为微服务通信带来了可靠性、安全性和可管理性。其中，服务网格技术可以用于改善应用程序和微服务之间的关系和交互。**开源**|
 |[Conductor](https://netflix.github.io/conductor/)|Netflix 的微服务编排引擎，是 Netflix OSS 生态系统的一部分。它可以运行在云端，并实现了微服务的流程编配。它还能够用于控制和可视化微服务之间的交互。|
 |[Seneca](https://github.com/senecajs/seneca)|开发人员可以使用 Seneca，来轻松构建基于消息的微服务，它是 Node.js 的微服务工具包，可以用它写出干净而且结构良好的代码，并系统化应用程序的业务逻辑。|
 |[Elixir](https://elixir-lang.org/)|Elixir is a dynamic, functional language designed for building scalable and maintainable applications.|
-
 
 ### [12 Factors](https://12factor.net/)
 
@@ -204,22 +213,20 @@ The factors represent a set of guidelines or best practices for portable, resili
 
 ## Load/Stree Test
 
-|Load/Stress Test|
-|---|
-|[ab - Apache HTTP server benchmarking tool](http://httpd.apache.org/docs/2.0/programs/ab.html)|
-|[Apache JMeter](http://jmeter.apache.org/)|
-|[Siege](http://freshmeat.sourceforge.net/projects/siege/)|
-|[FunkLoad](http://funkload.nuxeo.org/#)|
-|[loader.io](https://loader.io/)|
-
+| Load/Stress Test                                                                               |
+| ---------------------------------------------------------------------------------------------- |
+| [ab - Apache HTTP server benchmarking tool](http://httpd.apache.org/docs/2.0/programs/ab.html) |
+| [Apache JMeter](http://jmeter.apache.org/)                                                     |
+| [Siege](http://freshmeat.sourceforge.net/projects/siege/)                                      |
+| [FunkLoad](http://funkload.nuxeo.org/#)                                                        |
+| [loader.io](https://loader.io/)                                                                |
 
 ## Theory fo distributed system
 
-- [CAP定理（CAP theorem, Consistency, Availability, Partition tolerance）](https://en.wikipedia.org/wiki/CAP_theorem)
-- [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
-- [8 fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-- [FLP 不可能性的](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
-
+-   [CAP 定理（CAP theorem, Consistency, Availability, Partition tolerance）](https://en.wikipedia.org/wiki/CAP_theorem)
+-   [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
+-   [8 fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+-   [FLP 不可能性的](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 
 ## Database
 
@@ -228,28 +235,23 @@ The factors represent a set of guidelines or best practices for portable, resili
 | Introduction        |                    |                                                                                                              |                                                                                               | A very powerful, embedded relational database management system                   |
 | Relational Database | :heavy_check_mark: | :heavy_check_mark:                                                                                           | :heavy_check_mark:                                                                            | :heavy_check_mark:                                                                |
 | Advantage           |                    | An open-source SQL standard compliant RDBMS,Strong community,Strong third-party support,Extensible,Objective | Easy to work,Feature rich,Secure, Scalabel, Speedy                                            | File based, Standards-aware                                                       |
-| Disadvantage        |                    | Performance,Hosting                                                                                          | Function limitations, Reliability issues, Stagnated development                                                                                               | No user management, Lack of possibility to tinker with for additional performance |
+| Disadvantage        |                    | Performance,Hosting                                                                                          | Function limitations, Reliability issues, Stagnated development                               | No user management, Lack of possibility to tinker with for additional performance |
 | When to use         |                    | Data Integrity, Complex custom procedures,Integration,complex design                                         | Distributed operations, Hight security,Web site or Web app, Custom solution                   | Embedded app, Disk access replacement, Testing                                    |
 | When not to use     |                    | Speed,Simple set ups,Replication                                                                             | [SQL Compliance](https://en.wikipedia.org/wiki/SQL_compliance), Concurrency, Full-text search | Multi-User App, High write volumes                                                |
 
-|postgresql|
-|---|
-|[postgresql](https://www.postgresql.org/)|
-|[pgAdmin GUI for Postgresql](https://www.pgadmin.org/)|
-
+| postgresql                                             |
+| ------------------------------------------------------ |
+| [postgresql](https://www.postgresql.org/)              |
+| [pgAdmin GUI for Postgresql](https://www.pgadmin.org/) |
 
 ![mysql](../images/mysql.png)
 
-|MySQL|
-|---|
-|[MySQL8.0 new feature支持文档存储](https://www.mysql.com/why-mysql/white-papers/whats-new-mysql-8-0/)|
-
+| MySQL                                                                                                  |
+| ------------------------------------------------------------------------------------------------------ |
+| [MySQL8.0 new feature 支持文档存储](https://www.mysql.com/why-mysql/white-papers/whats-new-mysql-8-0/) |
 
 reference:
 [1]https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
-
-
-
 
 ## Caching
 
@@ -259,49 +261,43 @@ reference:
 
 Redis is better than Memcache
 
-
 [Redis 中文网](http://www.redis.net.cn/tutorial/3502.html)
 
-缓存设计的要点
-1.缓存穿透，避免缓存穿透
-2.缓存雪崩，加锁或者后台更新
-3.缓存热点，备份 多副本
+缓存设计的要点 1.缓存穿透，避免缓存穿透 2.缓存雪崩，加锁或者后台更新 3.缓存热点，备份 多副本
 
-## Desgin Pattern 23种设计模式
+## Desgin Pattern 23 种设计模式
 
 ### 创建型
 
-- Abstract Factory 抽象工厂
-- Builder 构建器
-- Factory Method 工厂方法
-- Prototype 原型
-- Singleton 单例
+-   Abstract Factory 抽象工厂
+-   Builder 构建器
+-   Factory Method 工厂方法
+-   Prototype 原型
+-   Singleton 单例
 
 ### 结构型
 
-- Adapter 适配器
-- Bridge 桥接
-- Composite 组合
-- Decorator 装饰器
-- Facade 外观模式
-- Flyweight 享元模式
-- Proxy 代理
+-   Adapter 适配器
+-   Bridge 桥接
+-   Composite 组合
+-   Decorator 装饰器
+-   Facade 外观模式
+-   Flyweight 享元模式
+-   Proxy 代理
 
 ### 行为模式
 
-- Chain of Responsiblity 责任链
-- Command 命令
-- Iterpreter 解释器
-- Iterator 迭代器
-- Mediator 中介者
-- Memento 备忘录
-- Observer 观察者
-- State 状态
-- Strategy 策略
-- Template Method 模板方法
-- Visitor 访问者
-
-
+-   Chain of Responsiblity 责任链
+-   Command 命令
+-   Iterpreter 解释器
+-   Iterator 迭代器
+-   Mediator 中介者
+-   Memento 备忘录
+-   Observer 观察者
+-   State 状态
+-   Strategy 策略
+-   Template Method 模板方法
+-   Visitor 访问者
 
 ## FMEA(Failure mode and effects analysis) 故障模式与影响分析
 
@@ -322,11 +318,9 @@ Sphinx
 
 Apache lucene
 
-
 ## Netty
 
 https://mp.weixin.qq.com/s/FUHnDFiHWeJC1J6-jAh9mA
-
 
 ## File System/Server
 
@@ -334,4 +328,25 @@ Based On HBase
 
 Small File Server
 
-淘宝TFS、京东 JFS、Facebook 的 Haystack
+淘宝 TFS、京东 JFS、Facebook 的 Haystack
+
+| Client                | Written in | License                                     | Access API                                                                |
+| --------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------------- |
+| Ceph                  | C++        | LGPL                                        | librados (C, C++, Python, Ruby), S3, Swift, FUSE                          |
+| BeeGFS                | C / C++    | FRAUNHOFER FS (FhGFS) EULA,[1] GPLv2 client | POSIX                                                                     |
+| GlusterFS             | C          | GPLv3                                       | libglusterfs, FUSE, NFS, SMB, Swift, libgfapi                             |
+| MooseFS               | C          | GPLv2                                       | POSIX, FUSE                                                               |
+| Quantcast File System | C          | Apache License 2.0                          | C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++) |
+| Spectrum Scale (GPFS) | C, C++     | Proprietary                                 | POSIX, NFS, SMB, Swift                                                    |
+| Lustre                | C          | GPLv2                                       | POSIX, liblustre, FUSE                                                    |
+| MapR-FS               | C, C++     | Proprietary                                 | POSIX, NFS, FUSE, S3                                                      |
+| OpenAFS               | C          | IBM Public License                          | Virtual file system, Installable File System                              |
+| scality               | C          | Proprietary                                 | fuse, NFS file system, rest, AWS S3                                       |
+| Tahoe-LAFS            | Python     | GNU GPL 2+ and other[5]                     | HTTP (browser or CLI), SFTP, FTP, FUSE via SSHFS, pyfilesystem            |
+| HDFS                  | Java       | Apache License 2.0                          | Java and C client, HTTP                                                   |
+| XtreemFS              | Java, C++  | BSD License                                 | libxtreemfs (Java, C++), FUSE                                             |
+| Ori[6]                | C, C++     | MIT                                         | libori, FUSE                                                              |
+
+[reference Wiki](https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems)
+
+
