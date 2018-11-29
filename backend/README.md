@@ -334,8 +334,8 @@ Small File Server
 | --------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------------- |
 | Ceph                  | C++        | LGPL                                        | librados (C, C++, Python, Ruby), S3, Swift, FUSE                          |
 | BeeGFS                | C / C++    | FRAUNHOFER FS (FhGFS) EULA,[1] GPLv2 client | POSIX                                                                     |
-| GlusterFS             | C          | GPLv3                                       | libglusterfs, FUSE, NFS, SMB, Swift, libgfapi                             |
-| MooseFS               | C          | GPLv2                                       | POSIX, FUSE                                                               |
+| [GlusterFS](https://www.gluster.org/)           | C          | GPLv3                                       | libglusterfs, FUSE, NFS, SMB, Swift, libgfapi                             |
+| [MooseFS](https://moosefs.com/)               | C          | GPLv2                                       | POSIX, FUSE                                                               |
 | Quantcast File System | C          | Apache License 2.0                          | C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++) |
 | Spectrum Scale (GPFS) | C, C++     | Proprietary                                 | POSIX, NFS, SMB, Swift                                                    |
 | Lustre                | C          | GPLv2                                       | POSIX, liblustre, FUSE                                                    |
@@ -350,3 +350,10 @@ Small File Server
 [reference Wiki](https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems)
 
 
+HDFS vs Ceph vs GlusterFS
+
+![FS](../images/FS.png)
+http://iopscience.iop.org/article/10.1088/1742-6596/513/4/042014/pdf
+
+
+MooseFS 适合大中文件
