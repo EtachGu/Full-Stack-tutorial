@@ -338,7 +338,7 @@ Small File Server
 | [MooseFS](https://moosefs.com/)               | C          | GPLv2                                       | POSIX, FUSE                                                               |
 | Quantcast File System | C          | Apache License 2.0                          | C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++) |
 | Spectrum Scale (GPFS) | C, C++     | Proprietary                                 | POSIX, NFS, SMB, Swift                                                    |
-| Lustre                | C          | GPLv2                                       | POSIX, liblustre, FUSE                                                    |
+| [Lustre](http://wiki.lustre.org/Main_Page)              | C          | GPLv2                                       | POSIX, liblustre, FUSE                                                    |
 | MapR-FS               | C, C++     | Proprietary                                 | POSIX, NFS, FUSE, S3                                                      |
 | OpenAFS               | C          | IBM Public License                          | Virtual file system, Installable File System                              |
 | scality               | C          | Proprietary                                 | fuse, NFS file system, rest, AWS S3                                       |
