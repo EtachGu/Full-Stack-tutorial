@@ -175,6 +175,9 @@ http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explai
 | [Keycloak an open source Identity and Access Management solution](https://github.com/keycloak/keycloak)                                           |
 | [An OpenID Connect reference implementation in Java on the Spring platform](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) |
 
+[OAuth2 good and bad](https://code.tutsplus.com/articles/oauth-20-the-good-the-bad-the-ugly--net-33216)
+
+
 ## Lua
 
 [kong](https://github.com/Kong/kong)基于 OpenResty 的 API 网关服务和网关服务管理层.
