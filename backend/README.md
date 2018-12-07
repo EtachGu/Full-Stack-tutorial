@@ -141,6 +141,7 @@ OAuth
 [OAuth 2](https://oauth.net/2/)
 
 [SSO how does single-sign-on work](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
+[Spring Security OAuth2 SSO](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/html/boot-features-security-oauth2-single-sign-on.html)
 
 Basic
 
