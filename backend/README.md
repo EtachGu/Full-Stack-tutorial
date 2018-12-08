@@ -143,6 +143,9 @@ OAuth
 [SSO how does single-sign-on work](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
 [Spring Security OAuth2 SSO](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/html/boot-features-security-oauth2-single-sign-on.html)
 
+[CAS (Central Authentication Service)](https://github.com/apereo/cas)
+[CAS SSO](https://apereo.github.io/cas/4.2.x/planning/Architecture.html)
+
 Basic
 
 tokn
