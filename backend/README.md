@@ -137,6 +137,10 @@ Netlfix Hystrix 限流熔断，
 
 ## Authentication & authorization
 
+SAML
+[SAML Security Assertion Markup Language](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)
+is an open standard that allows identity providers (IdP) to pass authorization credentials to service providers (SP).
+
 OAuth
 [OAuth 2](https://oauth.net/2/)
 
