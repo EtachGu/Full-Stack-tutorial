@@ -185,6 +185,7 @@ http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explai
 
 [OAuth2 good and bad](https://code.tutsplus.com/articles/oauth-20-the-good-the-bad-the-ugly--net-33216)
 
+[OAuth2 vs OpenID Connect vs SAML](https://www.gluu.org/blog/oauth-vs-saml-vs-openid-connect/)
 
 ## Lua
 
