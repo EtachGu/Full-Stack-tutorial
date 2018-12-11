@@ -265,6 +265,10 @@ The factors represent a set of guidelines or best practices for portable, resili
 reference:
 [1]https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
 
+## Persistence Framework
+
+[MyBatis](http://www.mybatis.org/mybatis-3/) is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings.
+
 ## Caching
 
 [Memcached VS Redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
