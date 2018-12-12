@@ -269,6 +269,8 @@ reference:
 
 [MyBatis](http://www.mybatis.org/mybatis-3/) is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings.
 
+[Hibernate ORM](http://hibernate.org/)
+
 ## Caching
 
 [Memcached VS Redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
