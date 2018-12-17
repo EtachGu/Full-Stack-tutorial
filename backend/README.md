@@ -271,6 +271,7 @@ reference:
 
 [flyway](https://flywaydb.org/getstarted/how)
 [liquibase](https://www.liquibase.org/)
+https://stackoverflow.com/questions/115369/do-you-use-source-control-for-your-database-items?page=1&tab=votes#tab-top 
 
 ## Persistence Framework
 
