@@ -145,9 +145,11 @@ OAuth
 [OAuth 2](https://oauth.net/2/)
 
 [SSO how does single-sign-on work](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
+
 [Spring Security OAuth2 SSO](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/html/boot-features-security-oauth2-single-sign-on.html)
 
 [CAS (Central Authentication Service)](https://github.com/apereo/cas)
+
 [CAS SSO](https://apereo.github.io/cas/4.2.x/planning/Architecture.html)
 
 Basic
@@ -270,8 +272,10 @@ reference:
 ## Database migrations / version
 
 [flyway](https://flywaydb.org/getstarted/how)
+
 [liquibase](https://www.liquibase.org/)
-https://stackoverflow.com/questions/115369/do-you-use-source-control-for-your-database-items?page=1&tab=votes#tab-top 
+
+https://stackoverflow.com/questions/115369/do-you-use-source-control-for-your-database-items?page=1&tab=votes#tab-top
 
 ## Persistence Framework
 
@@ -356,37 +360,35 @@ Small File Server
 
 淘宝 TFS、京东 JFS、Facebook 的 Haystack
 
-| Client                | Written in | License                                     | Access API                                                                |
-| --------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------------- |
-| Ceph                  | C++        | LGPL                                        | librados (C, C++, Python, Ruby), S3, Swift, FUSE                          |
-| BeeGFS                | C / C++    | FRAUNHOFER FS (FhGFS) EULA,[1] GPLv2 client | POSIX                                                                     |
-| [GlusterFS](https://www.gluster.org/)           | C          | GPLv3                                       | libglusterfs, FUSE, NFS, SMB, Swift, libgfapi                             |
-| [MooseFS](https://moosefs.com/)               | C          | GPLv2                                       | POSIX, FUSE                                                               |
-| Quantcast File System | C          | Apache License 2.0                          | C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++) |
-| Spectrum Scale (GPFS) | C, C++     | Proprietary                                 | POSIX, NFS, SMB, Swift                                                    |
-| [Lustre](http://wiki.lustre.org/Main_Page)              | C          | GPLv2                                       | POSIX, liblustre, FUSE                                                    |
-| MapR-FS               | C, C++     | Proprietary                                 | POSIX, NFS, FUSE, S3                                                      |
-| OpenAFS               | C          | IBM Public License                          | Virtual file system, Installable File System                              |
-| scality               | C          | Proprietary                                 | fuse, NFS file system, rest, AWS S3                                       |
-| Tahoe-LAFS            | Python     | GNU GPL 2+ and other[5]                     | HTTP (browser or CLI), SFTP, FTP, FUSE via SSHFS, pyfilesystem            |
-| HDFS                  | Java       | Apache License 2.0                          | Java and C client, HTTP                                                   |
-| XtreemFS              | Java, C++  | BSD License                                 | libxtreemfs (Java, C++), FUSE                                             |
-| Ori[6]                | C, C++     | MIT                                         | libori, FUSE                                                              |
+| Client                                     | Written in | License                                     | Access API                                                                |
+| ------------------------------------------ | ---------- | ------------------------------------------- | ------------------------------------------------------------------------- |
+| Ceph                                       | C++        | LGPL                                        | librados (C, C++, Python, Ruby), S3, Swift, FUSE                          |
+| BeeGFS                                     | C / C++    | FRAUNHOFER FS (FhGFS) EULA,[1] GPLv2 client | POSIX                                                                     |
+| [GlusterFS](https://www.gluster.org/)      | C          | GPLv3                                       | libglusterfs, FUSE, NFS, SMB, Swift, libgfapi                             |
+| [MooseFS](https://moosefs.com/)            | C          | GPLv2                                       | POSIX, FUSE                                                               |
+| Quantcast File System                      | C          | Apache License 2.0                          | C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++) |
+| Spectrum Scale (GPFS)                      | C, C++     | Proprietary                                 | POSIX, NFS, SMB, Swift                                                    |
+| [Lustre](http://wiki.lustre.org/Main_Page) | C          | GPLv2                                       | POSIX, liblustre, FUSE                                                    |
+| MapR-FS                                    | C, C++     | Proprietary                                 | POSIX, NFS, FUSE, S3                                                      |
+| OpenAFS                                    | C          | IBM Public License                          | Virtual file system, Installable File System                              |
+| scality                                    | C          | Proprietary                                 | fuse, NFS file system, rest, AWS S3                                       |
+| Tahoe-LAFS                                 | Python     | GNU GPL 2+ and other[5]                     | HTTP (browser or CLI), SFTP, FTP, FUSE via SSHFS, pyfilesystem            |
+| HDFS                                       | Java       | Apache License 2.0                          | Java and C client, HTTP                                                   |
+| XtreemFS                                   | Java, C++  | BSD License                                 | libxtreemfs (Java, C++), FUSE                                             |
+| Ori[6]                                     | C, C++     | MIT                                         | libori, FUSE                                                              |
 
 [reference Wiki](https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems)
-
 
 HDFS vs Ceph vs GlusterFS
 
 ![FS](../images/FS.png)
-http://iopscience.iop.org/article/10.1088/1742-6596/513/4/042014/pdf
 
+http://iopscience.iop.org/article/10.1088/1742-6596/513/4/042014/pdf
 
 MooseFS 适合大中文件
 
-
 ## Network
 
-[Wireshark ](https://www.wireshark.org/) is the world’s foremost and widely-used network protocol analyzer. 
+[Wireshark ](https://www.wireshark.org/) is the world’s foremost and widely-used network protocol analyzer.
 
 [RawCap](https://www.netresec.com/?page=RawCap) is a free command line network sniffer for Windows that uses raw sockets.
