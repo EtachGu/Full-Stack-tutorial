@@ -397,3 +397,4 @@ MooseFS 适合大中文件
 ## Middleware / 中间件
 
 [Nginx](http://nginx.org/) is an open source web server and reverse proxy
+Load_balancing (http://nginx.org/en/docs/http/load_balancing.html)
