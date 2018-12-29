@@ -280,6 +280,7 @@ https://stackoverflow.com/questions/115369/do-you-use-source-control-for-your-da
 ## Persistence Framework
 
 [MyBatis](http://www.mybatis.org/mybatis-3/) is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings.
+[MyBatis Web Example](https://github.com/mybatis/jpetstore-6/releases)
 
 [Hibernate ORM](http://hibernate.org/)
 
