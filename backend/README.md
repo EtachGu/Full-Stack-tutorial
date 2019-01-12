@@ -27,6 +27,9 @@
         -   [行为模式](#%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F)
     -   [FMEA(Failure mode and effects analysis) 故障模式与影响分析](#fmeafailure-mode-and-effects-analysis-%E6%95%85%E9%9A%9C%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90)
     -   [Search](#search)
+    -   [File System](#file-systemserver)
+    -   [Network](#network)
+    -   [Middleware](#middleware%E4%B8%AD%E9%97%B4%E4%BB%B6)
 
 ## Architecture knowledge
 
@@ -176,9 +179,10 @@ all forms of access control can ultimately be mapped back to one of four classic
 
 http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explained
 
-| Article                                                                                            |
-| -------------------------------------------------------------------------------------------------- |
-| [Four Authentication & authorization ](https://blog.csdn.net/gdp12315_gu/article/details/79905424) |
+| Article                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Four Authentication & authorization ](https://blog.csdn.net/gdp12315_gu/article/details/79905424)                                                 |
+| [Entity-level access restriction in the microservice architecture based on user or group membership](https://stackoverflow.com/a/48021163/6497118) |
 
 | OpenSource                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -199,7 +203,7 @@ http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explai
 -   [《微服务：从设计到部署》中文版](https://legacy.gitbook.com/book/docshome/microservices/details)
 
 Tools for Microservices
-|名称| 说明 |
+| 名称 | 说明 |
 |---|---|
 |[API Fortress](https://apifortress.com/)|API 测试和健康检测工具，为企业级 API 提供自动化的功能测试、健康检测和负载测试。它的设计原则是无代码，完全基于现代 API 架构实践和模式而构建 **收费**|
 |[Graylog](https://www.graylog.org/)|Security Incident and Event Management Report|
@@ -394,8 +398,7 @@ MooseFS 适合大中文件
 
 [RawCap](https://www.netresec.com/?page=RawCap) is a free command line network sniffer for Windows that uses raw sockets.
 
-
-## Middleware / 中间件
+## Middleware/中间件
 
 [Nginx](http://nginx.org/) is an open source web server and reverse proxy
 Load_balancing (http://nginx.org/en/docs/http/load_balancing.html)
