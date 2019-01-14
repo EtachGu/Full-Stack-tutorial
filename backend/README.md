@@ -154,6 +154,8 @@ OAuth
 [CAS (Central Authentication Service)](https://github.com/apereo/cas)
 
 [CAS SSO](https://apereo.github.io/cas/4.2.x/planning/Architecture.html)
+[CAS Install tutorial video](https://www.youtube.com/watch?v=RaWHNChzwaU)
+[CAS War Overlayer](https://github.com/apereo/cas-overlay-template)
 
 Basic
 
