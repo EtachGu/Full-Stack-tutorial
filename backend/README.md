@@ -122,6 +122,8 @@ Netlfix Hystrix 限流熔断，
 
 [Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
 
+[Learning Java ](https://www.youtube.com/user/java/)
+
 ## RESTful API
 
 [Best practies for a pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
