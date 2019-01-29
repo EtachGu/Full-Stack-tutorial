@@ -123,6 +123,7 @@ Netlfix Hystrix 限流熔断，
 [Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
 
 [Learning Java](https://www.youtube.com/user/java/)
+[Spring Framework Transaction Management](https://docs.spring.io/spring/docs/5.1.4.RELEASE/spring-framework-reference/data-access.html#transaction)
 
 ## RESTful API
 
