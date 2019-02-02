@@ -288,6 +288,8 @@ reference:
 
 https://stackoverflow.com/questions/115369/do-you-use-source-control-for-your-database-items?page=1&tab=votes#tab-top
 
+[Apache Ignite](https://apacheignite.readme.io/docs/what-is-ignite)
+
 ## Persistence Framework
 
 [MyBatis](http://www.mybatis.org/mybatis-3/) is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings.
