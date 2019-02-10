@@ -254,6 +254,7 @@ The factors represent a set of guidelines or best practices for portable, resili
 -   [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)
 -   [8 fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 -   [FLP 不可能性的](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+- [**Raft** A Consensus Algorithm](https://raft.github.io/raft.pdf)
 
 ## Database
 
