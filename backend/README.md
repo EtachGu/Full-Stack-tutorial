@@ -256,6 +256,10 @@ The factors represent a set of guidelines or best practices for portable, resili
 -   [FLP 不可能性的](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 - [**Raft** A Consensus Algorithm](https://raft.github.io/raft.pdf) [visualization of Raft](http://thesecretlivesofdata.com/raft/)
 
+
+Soft
+- [Apache Mesos](http://mesos.apache.org/)
+
 ## Database
 
 |                     | Oracle             | Postgresql                                                                                                   | Mysql                                                                                         | SQLite                                                                            |
