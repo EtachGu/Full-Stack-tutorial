@@ -420,3 +420,6 @@ Load_balancing (http://nginx.org/en/docs/http/load_balancing.html)
 [kong](https://github.com/Kong/kong)基于 OpenResty 的 API 网关服务和网关服务管理层.
 
 [Netflix Eureka 深度剖析服务注册与发现原理](https://zhuanlan.zhihu.com/p/24829766)
+
+[Prometheus Power your metrics and alerting with a leading open-source monitoring solution](https://prometheus.io/)
+[Learning Prometheus](https://github.com/yunlzheng/prometheus-book)
