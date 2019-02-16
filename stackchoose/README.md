@@ -34,3 +34,9 @@ Keep long-term maintenance and security on your radar. It’s always possible to
 9. 学习曲线和开发难度问题，主要结合当前团队的技术特点，熟练程度来考虑
 10. 如果付费，则需要考虑购买成本
 11. 便于测试、维护
+
+### choose software
+
+https://www.softwaresuggest.com/
+https://www.capterra.com/
+https://www.softwareadvice.com/
