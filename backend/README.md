@@ -145,6 +145,8 @@ Netlfix Hystrix 限流熔断，
 
 [API Style book](http://apistylebook.com/design/guidelines/)
 
+[REST Resource Naming Guide](https://www.javadevjournal.com/spring/rest-resource-naming/)
+
 ## Authentication & authorization
 
 SAML
