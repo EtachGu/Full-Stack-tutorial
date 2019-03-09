@@ -251,6 +251,7 @@ The factors represent a set of guidelines or best practices for portable, resili
 | [Siege](http://freshmeat.sourceforge.net/projects/siege/)                                      |
 | [FunkLoad](http://funkload.nuxeo.org/#)                                                        |
 | [loader.io](https://loader.io/)                                                                |
+| [Gatling](https://gatling.io/)                                                                 |
 
 ## Theory fo distributed system
 
@@ -429,3 +430,13 @@ Load_balancing (http://nginx.org/en/docs/http/load_balancing.html)
 
 [Prometheus Power your metrics and alerting with a leading open-source monitoring solution](https://prometheus.io/)
 [Learning Prometheus](https://github.com/yunlzheng/prometheus-book)
+
+
+## Logging Management
+
+SLF4J 
+
+[Logback](https://logback.qos.ch/documentation.html)
+
+
+ELK(Elasticsearch Logstash Kibana) a Centralized Logging stack.
