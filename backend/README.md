@@ -225,6 +225,8 @@ Tools for Microservices
 
 [PiggyMetrics This is a proof-of-concept application, which demonstrates Microservice Architecture Pattern using Spring Boot, Spring Cloud and Docker. With a pretty neat user interface, by the way.](https://github.com/sqshq/PiggyMetrics)
 
+[Staffjoy V2 ](https://github.com/Staffjoy/v2)
+
 ### [12 Factors](https://12factor.net/)
 
 The factors represent a set of guidelines or best practices for portable, resilient applications that will thrive in cloud environments(specifically software as a service applications)
