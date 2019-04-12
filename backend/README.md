@@ -423,6 +423,10 @@ MooseFS 适合大中文件
 
 [RawCap](https://www.netresec.com/?page=RawCap) is a free command line network sniffer for Windows that uses raw sockets.
 
+[C10K Problem](http://www.kegel.com/c10k.html#top)
+[C10K Problem翻译](https://www.oschina.net/translate/c10k?lang=chs&p=1)
+http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html 
+
 ## Middleware/中间件
 
 [Nginx](http://nginx.org/) is an open source web server and reverse proxy
