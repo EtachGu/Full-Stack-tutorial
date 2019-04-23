@@ -241,7 +241,7 @@ The factors represent a set of guidelines or best practices for portable, resili
 8. Concurrency is achieved by scaling individual processes (horizontal scaling).
 9. Processes must be disposable: Fast startup and graceful shutdown behaviors lead to a more robust and resilient system.
 10. All environments, from local development to production, should be as similar as possible.
-11. 11.Applications should produce logs as event streams (for example, writing to stdout and stderr), and trust the execution environment to aggregate streams.
+11. Applications should produce logs as event streams (for example, writing to stdout and stderr), and trust the execution environment to aggregate streams.
 12. If admin tasks are needed, they should be kept in source control and packaged alongside the application to ensure that it is run with the same environment as the application.
 
 ## Load/Stree Test
@@ -448,3 +448,7 @@ SLF4J
 
 
 ELK(Elasticsearch Logstash Kibana) a Centralized Logging stack.
+
+[fluentd Open-Source Log Collector ](https://github.com/fluent/fluentd)
+
+a better conceptual model is to treat **logs as time-ordered streams**: there is no beginning or end, but rather an ongoing, collated collection of events which we may wish to view in realtime as they happen (e.g. via tail -f or heroku logs --tail) or which we may wish to search in some time window (e.g. via grep or Splunk).
