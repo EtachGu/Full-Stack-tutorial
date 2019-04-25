@@ -425,7 +425,8 @@ MooseFS 适合大中文件
 
 [C10K Problem](http://www.kegel.com/c10k.html#top)
 [C10K Problem翻译](https://www.oschina.net/translate/c10k?lang=chs&p=1)
-http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html 
+http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html
+
 
 ## Middleware/中间件
 
@@ -452,3 +453,8 @@ ELK(Elasticsearch Logstash Kibana) a Centralized Logging stack.
 [fluentd Open-Source Log Collector ](https://github.com/fluent/fluentd)
 
 a better conceptual model is to treat **logs as time-ordered streams**: there is no beginning or end, but rather an ongoing, collated collection of events which we may wish to view in realtime as they happen (e.g. via tail -f or heroku logs --tail) or which we may wish to search in some time window (e.g. via grep or Splunk).
+
+
+## IoT (Interet of Thing)
+
+[MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol](http://mqtt.org/)
