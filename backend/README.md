@@ -149,6 +149,7 @@ Netlfix Hystrix 限流熔断，
 
 API Design Tool
 1. [Swagger Editor](http://editor.swagger.io/)
+2. [Swagger Codegen](https://github.com/swagger-api/swagger-codegen)
 
 ## Authentication & authorization
 
