@@ -147,6 +147,9 @@ Netlfix Hystrix 限流熔断，
 
 [REST Resource Naming Guide](https://www.javadevjournal.com/spring/rest-resource-naming/)
 
+API Design Tool
+1. [Swagger Editor](http://editor.swagger.io/)
+
 ## Authentication & authorization
 
 SAML
