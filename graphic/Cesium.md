@@ -1,11 +1,13 @@
 # Cesium Ion 上传发布过程
 
 
-点击上传模型的具体过程如下
+[Cesium Ion](https://cesium.com/ion)是Cesium的一个模型发布平台，提供上传模型、影像、地形的数据，并以服务的方式提供前端Cesium加载，同时，可以对访问进行权限控制。
+
+Cesium Ion 3DTile发布的具体过程如下
 
 ## 第一步
 
-先 `POST` 调用 `https://api.cesium.com/v1/assets` 创建一个 asset对象
+先调用 `POST`  `https://api.cesium.com/v1/assets` 创建一个 asset对象
 
 request body
 
@@ -62,7 +64,7 @@ status 有几种状态：
 
 ## 第二步 上传文件
 
-`POST` 调用 `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?uploads`
+调用 `POST`  `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?uploads`
 
 新建一个上传实例，
 
@@ -78,7 +80,7 @@ status 有几种状态：
 
 然后，根据返回的UploadId上传文件
 
-`PUT` 调用 `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?partNumber=2&uploadId=ODoOI_XIwoY3ZQ625ccISZ12HuOZjyKgUcasPJdOVTfQC8QDvUcRy.gy2UPirO_VM59q3XqOQGEHoMEFclplY.3mrsg_wa7Qv1heprtqGrivDS8rVIadBIGhLJM5RC0EsjOIMVkP5tvrjNYxCsKADg--`
+调用 `PUT` `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?partNumber=2&uploadId=ODoOI_XIwoY3ZQ625ccISZ12HuOZjyKgUcasPJdOVTfQC8QDvUcRy.gy2UPirO_VM59q3XqOQGEHoMEFclplY.3mrsg_wa7Qv1heprtqGrivDS8rVIadBIGhLJM5RC0EsjOIMVkP5tvrjNYxCsKADg--`
 
 请求体（二进制数据）
 ```binary
@@ -90,7 +92,7 @@ h
 
 等到文件上传完毕后，调用结束
 
-`POST` 调用 `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?uploadId=ODoOI_XIwoY3ZQ625ccISZ12HuOZjyKgUcasPJdOVTfQC8QDvUcRy.gy2UPirO_VM59q3XqOQGEHoMEFclplY.3mrsg_wa7Qv1heprtqGrivDS8rVIadBIGhLJM5RC0EsjOIMVkP5tvrjNYxCsKADg--`
+调用 `POST`  `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?uploadId=ODoOI_XIwoY3ZQ625ccISZ12HuOZjyKgUcasPJdOVTfQC8QDvUcRy.gy2UPirO_VM59q3XqOQGEHoMEFclplY.3mrsg_wa7Qv1heprtqGrivDS8rVIadBIGhLJM5RC0EsjOIMVkP5tvrjNYxCsKADg--`
 请求体
 ```xml
 <CompleteMultipartUpload xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Part><ETag>"b7baeacb18c57ca6e59b0284f0f6d297"</ETag><PartNumber>1</PartNumber></Part><Part><ETag>"4a6c8a62d5c0860f1131b508ef698f11"</ETag><PartNumber>2</PartNumber></Part></CompleteMultipartUpload>
@@ -105,13 +107,13 @@ h
 
 ## 第三步 更新asset的状态
 
-`POST` 调用 `https://api.cesium.com/v1/assets/23200/uploadComplete`
+调用 `POST` `https://api.cesium.com/v1/assets/23200/uploadComplete`
 无请求头和响应头
 
 
 ## 第四步 查看asset的状态
 
-`GET` 调用 `https://api.cesium.com/v1/assets/23200`
+调用 `GET`  `https://api.cesium.com/v1/assets/23200`
 
 响应体
 ```json
@@ -278,6 +280,22 @@ b3dm（二进制）
 
 # 总结分析
 
-静态资源存储在 assets.cesium.com 下
+Cesium Ion部署使用了AmazonS3（Simple Storage Service，对象存储）存储原始模型文件和转换后的3DTile文件，这些静态资源存储通过assets.cesium.com域名进行访问。访问资源需要携带访问令牌（access_token），这个access_token通过向 `api.cesium.com/assets/{id}/endpoint` 获取。
 
-API接口在 api.cesium.com 下
+如上述access_token（JWT） 解析后的部分内容如下
+```json
+{
+  "jti": "0fdc8d9d-3b39-4ce2-9505-c94a5148cf7c",
+  "id": 9665,
+  "assets": {
+    "23200": {
+      "type": "3DTILES"
+    }
+  },
+  "src": "2faf2b5a-0008-49bd-b036-1a3d75280651",
+  "iat": 1557484490,
+  "exp": 1557488090
+}
+```
+
+相关API接口，可以通过api.cesium.com调用，这部分接口由nginx/1.14.1返回，说明系统应该使用Nginx进行反向代理。
