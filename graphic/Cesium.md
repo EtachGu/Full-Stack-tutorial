@@ -21,7 +21,7 @@ request body
 ```
 
 response body
-```
+```json
 {
     "assetMetadata": {
         "id": 23200,
@@ -67,7 +67,7 @@ status 有几种状态：
 新建一个上传实例，
 
 响应体
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <InitiateMultipartUploadResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/">
     <Bucket>assets.cesium.com</Bucket>
@@ -81,22 +81,23 @@ status 有几种状态：
 `PUT` 调用 `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?partNumber=2&uploadId=ODoOI_XIwoY3ZQ625ccISZ12HuOZjyKgUcasPJdOVTfQC8QDvUcRy.gy2UPirO_VM59q3XqOQGEHoMEFclplY.3mrsg_wa7Qv1heprtqGrivDS8rVIadBIGhLJM5RC0EsjOIMVkP5tvrjNYxCsKADg--`
 
 请求体（二进制数据）
-```
+```binary
 PKlJMr= ù,SIû
 AGI_HQ.dae¤ÉåH×ð©f]·ÃFBÌ£
-T@h
+T@
+h
 ```
 
 等到文件上传完毕后，调用结束
 
 `POST` 调用 `https://s3.amazonaws.com/assets.cesium.com/sources/23200/AGI_HQ.kmz?uploadId=ODoOI_XIwoY3ZQ625ccISZ12HuOZjyKgUcasPJdOVTfQC8QDvUcRy.gy2UPirO_VM59q3XqOQGEHoMEFclplY.3mrsg_wa7Qv1heprtqGrivDS8rVIadBIGhLJM5RC0EsjOIMVkP5tvrjNYxCsKADg--`
 请求体
-```
+```xml
 <CompleteMultipartUpload xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Part><ETag>"b7baeacb18c57ca6e59b0284f0f6d297"</ETag><PartNumber>1</PartNumber></Part><Part><ETag>"4a6c8a62d5c0860f1131b508ef698f11"</ETag><PartNumber>2</PartNumber></Part></CompleteMultipartUpload>
 ```
 
 响应体
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 
 <CompleteMultipartUploadResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Location>https://s3.amazonaws.com/assets.cesium.com/sources%2F23200%2FAGI_HQ.kmz</Location><Bucket>assets.cesium.com</Bucket><Key>sources/23200/AGI_HQ.kmz</Key><ETag>&quot;d24638afe4c47ae92faaf2ec4b750f92-2&quot;</ETag></CompleteMultipartUploadResult>
@@ -113,7 +114,7 @@ AGI_HQ.dae¤ÉåH×ð©f]·ÃFBÌ£
 `GET` 调用 `https://api.cesium.com/v1/assets/23200`
 
 响应体
-```
+```json
 {
     "id": 23200,
     "type": "3DTILES",
@@ -140,7 +141,7 @@ AGI_HQ.dae¤ÉåH×ð©f]·ÃFBÌ£
 
 当瓦片发布完后，可以`GET`调用 `https://api.cesium.com/v1/assets/23200/endpoint` 获取终端信息
 请求头
-```
+```yml
 Accept: application/json,*/*;q=0.01
 Origin: https://cesium.com
 Referer: https://cesium.com/ion/assets/23200
@@ -148,7 +149,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 ```
 
 响应头
-```
+```yml
 access-control-allow-credentials: true
 access-control-allow-origin: https://cesium.com
 access-control-expose-headers: link
@@ -164,7 +165,7 @@ x-cache: Miss from cloudfront
 ```
 
 响应体
-```
+```json
 {
     "type": "3DTILES",
     "url": "https://assets.cesium.com/23200/tileset.json?v=1",
@@ -183,7 +184,7 @@ x-cache: Miss from cloudfront
 ```
 
 如果文件没用上传完，那么会显示
-```
+```json
 {"code":"BadRequest","message":"Asset is still being processed"}
 ```
 
@@ -193,7 +194,7 @@ x-cache: Miss from cloudfront
 发起请求 `GET` `https://assets.cesium.com/23200/tileset.json?v=1`
 
 响应体
-```
+```json
 {
     "asset": { "version": "1.0", "extras": { "ion": { "georeferenced": true, "movable": false } } },
     "geometricError": 773.9228030080011,
@@ -236,7 +237,7 @@ x-cache: Miss from cloudfront
 `GET` `https://assets.cesium.com/23200/0/0/0.b3dm`
 
 请求头
-```
+```yml
 Accept: */*;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwZmRjOGQ5ZC0zYjM5LTRjZTItOTUwNS1jOTRhNTE0OGNmN2MiLCJpZCI6OTY2NSwiYXNzZXRzIjp7IjIzMjAwIjp7InR5cGUiOiIzRFRJTEVTIn19LCJzcmMiOiIyZmFmMmI1YS0wMDA4LTQ5YmQtYjAzNi0xYTNkNzUyODA2NTEiLCJpYXQiOjE1NTc0ODQ0OTAsImV4cCI6MTU1NzQ4ODA5MH0.psmRQC9HGkS73wGhURjkuHLeA49Y-7JXi_zW8ZWyM-8
 Origin: https://cesium.com
 Referer: https://cesium.com/ion/assets/23200
@@ -245,7 +246,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 ```
 
 响应头
-```
+```yml
 accept-ranges: bytes
 access-control-allow-methods: GET, PUT, POST, DELETE
 access-control-allow-origin: *
@@ -270,7 +271,7 @@ x-cache: Miss from cloudfront
 
 
 响应体
-```
+```text
 b3dm（二进制）
 ```
 
