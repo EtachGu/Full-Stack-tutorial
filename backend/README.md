@@ -422,6 +422,8 @@ MooseFS 适合大中文件
 
 [NAS, SAN, NFS, 块存储、文件存储、对象存储](https://blog.csdn.net/gdp12315_gu/article/details/87996037)
 
+[MinIO A high performance, distributed object storage server, designed for large-scale data infrastructure. It is an ideal S3-compatible replacement for Hadoop HDFS for machine learning and other big data workloads](https://min.io/)
+
 ## Network
 
 [Wireshark ](https://www.wireshark.org/) is the world’s foremost and widely-used network protocol analyzer.
