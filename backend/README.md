@@ -447,6 +447,8 @@ Load_balancing (http://nginx.org/en/docs/http/load_balancing.html)
 [Prometheus Power your metrics and alerting with a leading open-source monitoring solution](https://prometheus.io/)
 [Learning Prometheus](https://github.com/yunlzheng/prometheus-book)
 
+[OpenResty full-fledged web platform that integrates our enhanced version of the Nginx core, our enhanced version of LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.](https://openresty.org/en)
+
 
 ## Logging Management
 
