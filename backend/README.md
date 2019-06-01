@@ -159,6 +159,7 @@ is an open standard that allows identity providers (IdP) to pass authorization c
 
 OAuth
 [OAuth 2](https://oauth.net/2/)
+[OAuth2 single page application](https://tools.ietf.org/html/draft-parecki-oauth-browser-based-apps-02)
 
 [SSO how does single-sign-on work](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
 
