@@ -125,7 +125,7 @@ Netlfix Hystrix 限流熔断，
 [Learning Java](https://www.youtube.com/user/java/)
 [Spring Framework Transaction Management](https://docs.spring.io/spring/docs/5.1.4.RELEASE/spring-framework-reference/data-access.html#transaction)
 [分布式事务](https://mp.weixin.qq.com/s/43wwC4lp77m4foVPEgTRlA)
-[TCC Transaction](https://github.com/changmingxie/tcc-transaction)
+[TCC(Try-Confirm-Cancel) Transaction](https://github.com/changmingxie/tcc-transaction)
 
 ## RESTful API
 
