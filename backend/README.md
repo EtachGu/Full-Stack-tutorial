@@ -468,3 +468,10 @@ a better conceptual model is to treat **logs as time-ordered streams**: there is
 ## IoT (Interet of Thing)
 
 [MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol](http://mqtt.org/)
+
+
+## scheduled task
+
+[Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.]  https://github.com/elasticjob/elastic-job-lite
+
+[A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB） ]  https://github.com/xuxueli/xxl-job
