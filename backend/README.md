@@ -209,6 +209,8 @@ http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explai
 
 [OAuth2 vs OpenID Connect vs SAML](https://www.gluu.org/blog/oauth-vs-saml-vs-openid-connect/)
 
+[authentication-and-authorization-in-microservices ](https://dzone.com/articles/authentication-and-authorization-in-microservices)
+
 ## Lua
 
 [kong](https://github.com/Kong/kong)基于 OpenResty 的 API 网关服务和网关服务管理层.
@@ -232,6 +234,8 @@ Tools for Microservices
 [PiggyMetrics This is a proof-of-concept application, which demonstrates Microservice Architecture Pattern using Spring Boot, Spring Cloud and Docker. With a pretty neat user interface, by the way.](https://github.com/sqshq/PiggyMetrics)
 
 [Staffjoy V2 ](https://github.com/Staffjoy/v2)
+
+[Event Sourcing and CQRS(Command and Query Responsibilty Segregation)](https://medium.com/technology-learning/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8)
 
 ### [12 Factors](https://12factor.net/)
 
