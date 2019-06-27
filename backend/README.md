@@ -454,6 +454,7 @@ Load_balancing (http://nginx.org/en/docs/http/load_balancing.html)
 
 [OpenResty full-fledged web platform that integrates our enhanced version of the Nginx core, our enhanced version of LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.](https://openresty.org/en)
 
+[Tyk Open Source API Gateway written in Go](https://github.com/TykTechnologies/tyk)
 
 ## Logging Management
 
