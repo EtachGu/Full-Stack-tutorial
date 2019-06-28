@@ -292,6 +292,7 @@ Soft
 | ------------------------------------------------------ |
 | [postgresql](https://www.postgresql.org/)              |
 | [pgAdmin GUI for Postgresql](https://www.pgadmin.org/) |
+| [postgresql index]](https://github.com/digoal/blog/blob/master/201706/20170627_01.md) |
 
 ![mysql](../images/mysql.png)
 
