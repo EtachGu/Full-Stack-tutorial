@@ -237,6 +237,8 @@ Tools for Microservices
 
 [Event Sourcing and CQRS(Command and Query Responsibilty Segregation)](https://medium.com/technology-learning/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8)
 
+[Nacos It provides a set of simple and useful features enabling you to realize dynamic service discovery, service configuration, service metadata and traffic management.](https://nacos.io/en-us/docs/what-is-nacos.html)
+
 ### [12 Factors](https://12factor.net/)
 
 The factors represent a set of guidelines or best practices for portable, resilient applications that will thrive in cloud environments(specifically software as a service applications)
