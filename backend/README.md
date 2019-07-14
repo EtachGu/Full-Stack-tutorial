@@ -302,7 +302,9 @@ Soft
 | ------------------------------------------------------------------------------------------------------ |
 | [MySQL8.0 new feature 支持文档存储](https://www.mysql.com/why-mysql/white-papers/whats-new-mysql-8-0/) |
 
-[] ArangoDB](https://www.arangodb.com/why-arangodb/)
+[ArangoDB](https://www.arangodb.com/why-arangodb/)
+
+[Greenplum an open-source massively parallel data platform for analytics, machine learning and AI](https://greenplum.org/)
 
 reference:
 [1]https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
