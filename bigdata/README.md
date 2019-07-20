@@ -32,3 +32,8 @@ Kudu
 
 # Data Governance
 
+
+# IDE Integrated Development Environment
+
+[Hue, Hadoop User Expeirence. Hue is an open source SQL Workbench for browsing, querying and visualizing data in cloud/on-prem Data Warehouses: gethue.com](https://github.com/cloudera/hue)
+
