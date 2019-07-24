@@ -127,6 +127,8 @@ Netlfix Hystrix 限流熔断，
 [分布式事务](https://mp.weixin.qq.com/s/43wwC4lp77m4foVPEgTRlA)
 [TCC(Try-Confirm-Cancel) Transaction](https://github.com/changmingxie/tcc-transaction)
 
+[Spring boot admin, Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
+
 ## RESTful API
 
 [Best practies for a pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
