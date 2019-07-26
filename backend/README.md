@@ -216,6 +216,7 @@ http://blog.identityautomation.com/rbac-vs-abac-access-control-models-iam-explai
 ## Lua
 
 [kong](https://github.com/Kong/kong)基于 OpenResty 的 API 网关服务和网关服务管理层.
+[Kong dashboard](https://github.com/PGBI/kong-dashboard)
 
 ## Microservices Architecture 微服务
 
