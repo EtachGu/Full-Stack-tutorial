@@ -269,6 +269,7 @@ The factors represent a set of guidelines or best practices for portable, resili
 | [FunkLoad](http://funkload.nuxeo.org/#)                                                        |
 | [loader.io](https://loader.io/)                                                                |
 | [Gatling](https://gatling.io/)                                                                 |
+| [wrk, Modern HTTP benchmarking tool](https://github.com/wg/wrk)                                |
 
 ## Theory fo distributed system
 
@@ -492,3 +493,10 @@ a better conceptual model is to treat **logs as time-ordered streams**: there is
 [Netflix Conductor is a microservices orchestration engine](https://github.com/netflix/conductor)
 
 [Zeebe is a workflow engine for microservices orchestration.](https://zeebe.io/)
+
+
+## Workflow
+
+[BPMN, Business Process Model and Notation](http://www.bpmn.org/)
+[Activiti, ](https://www.activiti.org/)
+
