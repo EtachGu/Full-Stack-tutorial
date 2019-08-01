@@ -88,3 +88,7 @@ github Flow 采用fork flow的方式，每位开发者各自维护自己代码�
 ## DevOps
 
 [DevOps](devops/README.md)
+
+## Others
+
+[How to pronounce](http://www.howtopronounce.cc)
