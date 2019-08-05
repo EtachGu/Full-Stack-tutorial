@@ -465,6 +465,11 @@ Load_balancing (http://nginx.org/en/docs/http/load_balancing.html)
 
 [Tyk Open Source API Gateway written in Go](https://github.com/TykTechnologies/tyk)
 
+[Distributed database middleware, is an open-source ecosphere consists of a set of distributed database middleware solutions, including 3 independent products, Sharding-JDBC, Sharding-Proxy & Sharding-Sidecar (todo)](https://github.com/apache/incubator-shardingsphere/)
+
+https://shardingsphere.apache.org/document/current/en/overview/
+
+
 ## Logging Management
 
 SLF4J 
