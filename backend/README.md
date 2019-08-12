@@ -504,5 +504,6 @@ a better conceptual model is to treat **logs as time-ordered streams**: there is
 ## Workflow
 
 [BPMN, Business Process Model and Notation](http://www.bpmn.org/)
-[Activiti, ](https://www.activiti.org/)
+[Flowable](https://github.com/flowable/flowable-engine)
+[(deprecated) Activiti, after 6.0 it was not development](https://www.activiti.org/)
 
