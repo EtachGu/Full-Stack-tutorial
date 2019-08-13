@@ -154,6 +154,11 @@ API Design Tool
 1. [Swagger Editor](http://editor.swagger.io/)
 2. [Swagger Codegen](https://github.com/swagger-api/swagger-codegen)
 
+
+[Standard JSON API response format ?](https://stackoverflow.com/questions/12806386/standard-json-api-response-format)
+
+[Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+
 ## Authentication & authorization
 
 SAML
