@@ -32,6 +32,8 @@ Kudu
 
 # Data Governance
 
+[Apache Atlas, a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem](http://atlas.apache.org/index.html)
+
 
 # IDE Integrated Development Environment
 
