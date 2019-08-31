@@ -34,6 +34,8 @@ Kudu
 
 [Apache Atlas, a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem](http://atlas.apache.org/index.html)
 
+[Netflix Metacat,a unified metadata exploration API service. You can explore Hive, RDS, Teradata, Redshift, S3 and Cassandra](https://github.com/Netflix/metacat)
+
 
 # IDE Integrated Development Environment
 
