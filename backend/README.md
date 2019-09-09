@@ -512,3 +512,9 @@ a better conceptual model is to treat **logs as time-ordered streams**: there is
 [Flowable](https://github.com/flowable/flowable-engine)
 [(deprecated) Activiti, after 6.0 it was not development](https://www.activiti.org/)
 
+
+
+## Parser Generator
+
+[ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://github.com/antlr)
+[Grammars written for ANTLR v4; expectation that the grammars are free of actions.](https://github.com/antlr/grammars-v4)
