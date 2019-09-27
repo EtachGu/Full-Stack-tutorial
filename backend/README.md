@@ -488,6 +488,7 @@ ELK(Elasticsearch Logstash Kibana) a Centralized Logging stack.
 [fluentd Open-Source Log Collector ](https://github.com/fluent/fluentd)
 
 a better conceptual model is to treat **logs as time-ordered streams**: there is no beginning or end, but rather an ongoing, collated collection of events which we may wish to view in realtime as they happen (e.g. via tail -f or heroku logs --tail) or which we may wish to search in some time window (e.g. via grep or Splunk).
+[fluentd Docker](https://hub.docker.com/r/fluent/fluentd)
 
 
 ## IoT (Interet of Thing)
