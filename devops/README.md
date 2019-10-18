@@ -34,3 +34,7 @@ boot2docker is deprecated, and [Docker Mechine](https://docs.docker.com/machine/
 # Metrics-Driven Development
 
 [Metrics-Driven Development](https://www.infoq.com/articles/metrics-driven-development)
+
+# Code Analysis
+
+[SonarQube, SonarQube can perform analysis on 20+ different languages.](https://docs.sonarqube.org/latest/architecture/architecture-integration/)
