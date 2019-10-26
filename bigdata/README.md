@@ -41,3 +41,7 @@ Kudu
 
 [Hue, Hadoop User Expeirence. Hue is an open source SQL Workbench for browsing, querying and visualizing data in cloud/on-prem Data Warehouses: gethue.com](https://github.com/cloudera/hue)
 
+
+# Designing Data-Intensive Applications
+
+[Designing Data-Intensive Applications](https://github.com/ept/ddia-references)
