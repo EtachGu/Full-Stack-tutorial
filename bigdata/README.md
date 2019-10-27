@@ -45,3 +45,7 @@ Kudu
 # Designing Data-Intensive Applications
 
 [Designing Data-Intensive Applications](https://github.com/ept/ddia-references)
+
+# Data lake
+
+[Databricks Data lake, is an open-source storage layer that brings ACID transactions to Apache Spark™ and big data workloads.](https://delta.io/)
