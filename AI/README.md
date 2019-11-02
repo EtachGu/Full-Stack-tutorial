@@ -18,3 +18,6 @@ Machine Learning
 
 
 [Interview](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+
+
+[numpy-ml, Mechine Leaning implement with numpy](https://github.com/ddbourgin/numpy-ml)
