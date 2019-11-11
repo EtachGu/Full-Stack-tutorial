@@ -130,6 +130,8 @@ Netlfix Hystrix 限流熔断，
 
 [Spring boot admin, Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
 
+[Spring Event Example](https://www.baeldung.com/spring-events)
+
 ## RESTful API
 
 [Best practies for a pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
