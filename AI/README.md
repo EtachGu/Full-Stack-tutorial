@@ -22,4 +22,6 @@ Machine Learning
 
 [numpy-ml, Mechine Leaning implement with numpy](https://github.com/ddbourgin/numpy-ml)
 
-[ai learning](https://github.com/apachecn/AiLearning)
+[AI learning tutorial](https://github.com/apachecn/AiLearning)
+
+[AI platform](https://github.com/microsoft/ai-edu)
