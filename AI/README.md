@@ -25,3 +25,5 @@ Machine Learning
 [AI learning tutorial](https://github.com/apachecn/AiLearning)
 
 [AI platform](https://github.com/microsoft/ai-edu)
+
+[Deeplearning ai, Andrew Ng, NoteBook](https://github.com/fengdu78/deeplearning_ai_books)
