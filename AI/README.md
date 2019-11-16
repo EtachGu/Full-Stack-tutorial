@@ -29,3 +29,7 @@ Machine Learning
 [Deeplearning ai, Andrew Ng, NoteBook](https://github.com/fengdu78/deeplearning_ai_books)
 
 [Deeplearning Book](https://github.com/exacity/deeplearningbook-chinese)
+
+## Algorithms
+
+[Machine-learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
