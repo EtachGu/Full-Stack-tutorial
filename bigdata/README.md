@@ -19,6 +19,8 @@ Data ingestion can be continuous, asynchronous, real-time or batched and the sou
 
 任意数据源的数据集成
 
+[Otter 阿里巴巴分布式数据库同步系统(解决中美异地机房)](https://github.com/alibaba/otter), 其基于[Canal](http://github.com/alibaba/canal)，Canal是otter之前开源的一个子项目
+
 
 # Storage 存储
 

@@ -17,6 +17,7 @@ A tech stack is a combination of software products and programming languages use
 - [Front End](#front-end)
 - [Back End](#back-end)
 - [DevOps](#devops)
+- [Big Data](#bigdata)
 
 ## Basic
 
