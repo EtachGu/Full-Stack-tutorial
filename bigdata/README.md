@@ -21,6 +21,17 @@ Data ingestion can be continuous, asynchronous, real-time or batched and the sou
 
 [Otter 阿里巴巴分布式数据库同步系统(解决中美异地机房)](https://github.com/alibaba/otter), 其基于[Canal](http://github.com/alibaba/canal)，Canal是otter之前开源的一个子项目
 
+[Kettle （Pentaho Data Integration ETL）](https://github.com/pentaho/pentaho-kettle)
+
+[Apache NiFi was built to automate the flow of data between systems.](https://nifi.apache.org/docs.html)
+
+[StreamSets](https://streamsets.com/)
+
+Singer https://www.singer.io/
+
+
+https://hevodata.com/blog/best-etl-tools-data-warehouse/
+
 
 # Storage 存储
 
