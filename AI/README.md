@@ -36,3 +36,4 @@ https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 
 [Machine-learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 [Algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+[Interview coding](https://github.com/donnemartin/interactive-coding-challenges)
