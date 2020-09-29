@@ -37,3 +37,9 @@ https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 [Machine-learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 [Algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 [Interview coding](https://github.com/donnemartin/interactive-coding-challenges)
+
+## Knowledge Graph
+
+OpenKG 中文开发知识图谱 http://openkg.cn/
+
+Linked Open Data https://www.lod-cloud.net/
