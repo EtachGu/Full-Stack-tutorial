@@ -32,6 +32,8 @@ https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 
 [Deeplearning Book](https://github.com/exacity/deeplearningbook-chinese)
 
+[基础机器学习理论与面试题](https://github.com/sladesha/Reflection_Summary)
+
 ## Algorithms
 
 [Machine-learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
@@ -43,3 +45,4 @@ https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 OpenKG 中文开发知识图谱 http://openkg.cn/
 
 Linked Open Data https://www.lod-cloud.net/
+
